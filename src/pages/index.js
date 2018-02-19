@@ -4,7 +4,7 @@ import Script from "react-load-script";
 import graphql from "graphql";
 
 export default class IndexPage extends React.Component {
-  handleScriptLoad() {
+  handleScriptLoad = () => {
     if (typeof window !== `undefined` && window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
         if (!user) {
@@ -25,7 +25,7 @@ export default class IndexPage extends React.Component {
       <section className="section">
         <Script
           url="https://identity.netlify.com/v1/netlify-identity-widget.js"
-          onLoad={() => this.handleScriptLoad()}
+          onLoad={this.handleScriptLoad}
         />
         <div className="container">
           <div className="content">
