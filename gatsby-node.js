@@ -1,4 +1,4 @@
-const path = require("path");
+const { resolve } = require("path");
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
@@ -19,6 +19,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               path
               date
               title
+              tags
               description
             }
           }
@@ -31,18 +32,34 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       return Promise.reject(result.errors);
     }
 
-    return result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      const pagePath = node.frontmatter.path;
+    const allTags = new Set();
+    result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+      const { path, tags } = node.frontmatter;
       createPage({
-        path: pagePath,
-        component: path.resolve(
+        path,
+        component: resolve(
           `src/templates/${String(node.frontmatter.templateKey)}.js`
         ),
         // additional data can be passed via context
         context: {
-          path: pagePath
+          path
         }
       });
+      if (tags) {
+        tags.forEach(allTags.add.bind(allTags));
+      }
     });
+
+    const tagTemplate = resolve('src/templates/tag-page.js');
+    allTags.forEach(tag => {
+      createPage({
+        path: `/tags/${tag}/`,
+        component: tagTemplate,
+        context: {
+          tag
+        },
+      });
+    });
+    
   });
 };
