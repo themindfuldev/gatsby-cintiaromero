@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /epifania-banners
 title: Banners Epifania
+tags:
+  - banners
+  - epifania
 date: 2017-08-05T15:04:10.000Z
 description: New banners to be added to Epifania's website
 ---
@@ -19,5 +22,3 @@ software:
 - Illustrator
 - Photoshop
 ---
-
-Tags:[banners,epifania]

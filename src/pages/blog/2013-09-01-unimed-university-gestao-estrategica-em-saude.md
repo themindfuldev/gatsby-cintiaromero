@@ -1,7 +1,10 @@
 ---
 templateKey: blog-post
 path: /unimed-university-gestao-estrategica-em-saude
-title:Gestão Estratégica em Saúde
+title: Gestão Estratégica em Saúde
+tags:
+  - brochures
+  - unimed-university
 date: 2013-09-01T15:04:10.000Z
 description: This pamphlet is meant to advertise the Strategic Healthcare Management course.
 ---
@@ -19,5 +22,3 @@ type: Pamphlet
 software:
 - InDesign
 ---
-
-Tags:[brochures,unimed-university]

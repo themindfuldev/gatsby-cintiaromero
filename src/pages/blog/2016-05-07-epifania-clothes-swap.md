@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /epifania-clothes-swap
 title: Clothes swap banner
+tags:
+  - social-media
+  - epifania
 date: 2016-05-07T15:04:10.000Z
 description: This banner was created for a Facebook and Eventbrite event page for a fun clothes swap by Epifania Magazine.
 ---
@@ -17,5 +20,3 @@ type: Banner
 software:
 - Illustrator
 ---
-
-Tags:[social-media,epifania]

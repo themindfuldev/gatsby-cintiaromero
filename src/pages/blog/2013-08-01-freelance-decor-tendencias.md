@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /freelance-decor-tendencias
 title: Decor Tendências
+tags:
+  - posters
+  - freelance
 date: 2013-08-01T15:04:10.000Z
 description: This poster is intended to promote a trends in decoration event.
 ---
@@ -18,5 +21,3 @@ software:
 - InDesign
 - Photoshop
 ---
-
-Tags:[posters,freelance]

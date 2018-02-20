@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /avenue-code-tri-fold
 title: Avenue Code tri-fold
+tags:
+  - brochures
+  - avenue-code
 date: 2011-04-01T15:04:10.000Z
 description: This tri-fold is meant to represent the company's business for potential clients.
 ---
@@ -20,5 +23,3 @@ software:
 - Photoshop
 - InDesign
 ---
-
-Tags:[brochures,avenue-code]

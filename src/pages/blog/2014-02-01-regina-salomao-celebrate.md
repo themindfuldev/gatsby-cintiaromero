@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /regina-salomao-celebrate
 title: Celebrate
+tags:
+  - email-marketing
+  - regina-salomao
 date: 2014-02-01T15:04:10.000Z
 description: This email marketing design is for advertising an launch party.
 ---
@@ -18,5 +21,3 @@ software:
 - Illustrator
 - Photoshop
 ---
-
-Tags:[email-marketing,regina-salomao]

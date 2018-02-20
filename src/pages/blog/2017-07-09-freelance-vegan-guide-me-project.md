@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /freelance-vegan-guide-me-project
 title: VeganGuide.Me project
+tags:
+  - ux
+  - freelance
 date: 2017-07-09T15:04:10.000Z
 description: VeganGuide.Me is a fully-responsive website designed to help saving animals lives through sharing knowledge, tips and guiding your vegan shopping experience, featuring a blazing-fast search bar.
 ---
@@ -114,5 +117,3 @@ On the image gallery below you can find the initial black & white wireframes, an
 ### Mobile version layout
 <img src="https://farm5.staticflickr.com/4212/35831405815_f5508ce80d_h.jpg" class="center" />
 
-
-Tags:[ux,freelance]

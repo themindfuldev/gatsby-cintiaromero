@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /personal-my-favorite-lumberjack
 title: My favorite lumberjack
+tags:
+  - illustrations
+  - personal
 date: 2014-03-03T15:04:10.000Z
 description: This fashion sketch is about my favorite lumberjack.
 ---
@@ -17,5 +20,3 @@ type: Illustration
 software:
 - Photoshop
 ---
-
-Tags:[illustrations,personal]

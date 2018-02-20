@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /personal-sherlock-card
 title: Sherlock-card
+tags:
+  - logos
+  - personal
 date: 2015-10-22T15:04:10.000Z
 description: This logo is intended to represent a pet for a birthday party.
 ---
@@ -17,5 +20,3 @@ type: Logo
 software:
 - Illustrator
 ---
-
-Tags:[logos,personal]

@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /unimed-university-dieta-de-pascoa
 title: Dieta de páscoa
+tags:
+  - posters
+  - unimed-university
 date: 2013-04-01T15:04:10.000Z
 description: This poster is intended to promote an Easter event.
 ---
@@ -17,5 +20,3 @@ type: Poster
 software:
 - Illustrator
 ---
-
-Tags:[posters,unimed-university]

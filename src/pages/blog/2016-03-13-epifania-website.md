@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /epifania-website
 title: Epifania website
+tags:
+  - web-design
+  - epifania
 date: 2016-03-13T15:04:10.000Z
 description: This webdesign was created for Epifania magazine.
 ---
@@ -20,5 +23,3 @@ software:
 ---
 ### Related work
 - Check out - <a href="http://epifanialyl.com" target="_blank">epifanialyl.com</a>. 
-
-Tags:[web-design,epifania]

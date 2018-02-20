@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /epifania-sleep-less-and-dream-more
 title: Quote - Sleep less and dream more
+tags:
+  - social-media
+  - epifania
 date: 2016-03-20T15:04:10.000Z
 description: Artwork to be posted on the Epifania's Instagram profile.
 ---
@@ -17,5 +20,3 @@ type: Instagram
 software:
 - Photoshop
 ---
-
-Tags:[social-media,epifania]

@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /unimed-university-conhecimento-para-ir-mais-longe
 title: Conhecimento para ir mais longe
+tags:
+  - social-media
+  - unimed-university
 date: 2013-06-01T15:04:10.000Z
 description: This banner is for a courses campaign.
 ---
@@ -17,5 +20,3 @@ type: Banner
 software:
 - Photoshop
 ---
-
-Tags:[social-media,unimed-university]

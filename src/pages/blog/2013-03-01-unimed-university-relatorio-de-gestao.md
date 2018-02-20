@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /unimed-university-relatorio-de-gestao
 title: Relatório de Gestão
+tags:
+  - brochures
+  - unimed-university
 date: 2013-03-01T15:04:10.000Z
 description: This management report booklet presents some company information from 2009 to 2012.
 ---
@@ -21,5 +24,3 @@ type: Booklet
 software:
 - InDesign
 ---
-
-Tags:[brochures,unimed-university]

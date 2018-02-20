@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /personal-old-glamour
 title: Old glamour
+tags:
+  - illustrations
+  - personal
 date: 2014-03-01T15:04:10.000Z
 description: This fashion sketch is about old glamour.
 ---
@@ -17,5 +20,3 @@ type: Illustration
 software:
 - Photoshop
 ---
-
-Tags:[illustrations,personal]

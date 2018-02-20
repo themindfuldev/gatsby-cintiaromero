@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /personal-chick silhouette
 title: Chick silhouette
+tags:
+  - illustrations
+  - personal
 date: 2014-03-01T15:04:10.000Z
 description: This fashion sketch is about chick silhouette.
 ---
@@ -17,5 +20,3 @@ type: Illustration
 software:
 - Photoshop
 ---
-
-Tags:[illustrations,personal]

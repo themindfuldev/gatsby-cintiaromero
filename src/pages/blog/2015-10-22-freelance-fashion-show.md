@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /freelance-fashion-show
 title: Fashion show
+tags:
+  - posters
+  - freelance
 date: 2015-10-22T15:04:10.000Z
 description: This poster was created to advertise a Fashion Show event.
 ---
@@ -18,5 +21,3 @@ software:
 - Illustrator
 - Photoshop
 ---
-
-Tags:[posters,freelance]

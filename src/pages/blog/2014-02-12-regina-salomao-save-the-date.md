@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /regina-salomao-save-the-date
 title: Save the date
+tags:
+  - email-marketing
+  - regina-salomao
 date: 2014-02-12T15:04:10.000Z
 description: This email marketing design is for advertising an launch party.
 ---
@@ -17,5 +20,3 @@ type: Email marketing
 software:
 - InDesign
 ---
-
-Tags:[email-marketing,regina-salomao]

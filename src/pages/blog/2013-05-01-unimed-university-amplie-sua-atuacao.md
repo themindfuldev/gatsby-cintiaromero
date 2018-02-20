@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /unimed-university-amplie-sua-atuacao
 title: Amplie sua atuação
+tags:
+  - brochures
+  - unimed-university
 date: 2013-05-01T15:04:10.000Z
 description: This flyer is meant to advertise Healthcare courses.
 ---
@@ -18,5 +21,3 @@ software:
 - Illustrator
 - Photoshop
 ---
-
-Tags:[brochures,unimed-university]

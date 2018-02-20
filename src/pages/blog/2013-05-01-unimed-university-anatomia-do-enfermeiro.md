@@ -1,7 +1,10 @@
 ---
 templateKey: blog-post
 path: /unimed-university-anatomia-do-enfermeiro
-title:Anatomia do enfermeiro
+title: Anatomia do enfermeiro
+tags:
+  - email-marketing
+  - unimed-university
 date: 2013-05-01T15:04:10.000Z
 description: This email marketing design is for a nursing campaign.
 ---
@@ -17,5 +20,3 @@ type: Email marketing
 software:
 - Illustrator
 ---
-
-Tags:[email-marketing,unimed-university]

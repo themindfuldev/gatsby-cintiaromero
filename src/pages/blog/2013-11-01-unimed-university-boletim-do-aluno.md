@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /unimed-university-boletim-do-aluno
 title: Boletim do aluno
+tags:
+  - brochures
+  - unimed-university
 date: 2013-11-01T15:04:10.000Z
 description: This folder cover stands over the folders given to students.
 ---
@@ -17,5 +20,3 @@ type: Folder cover
 software:
 - Illustrator
 ---
-
-Tags:[brochures,unimed-university]

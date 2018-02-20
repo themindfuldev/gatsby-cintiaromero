@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /personal-fresh-twenties
 title: Fresh twenties
+tags:
+  - illustrations
+  - personal
 date: 2014-03-01T15:04:10.000Z
 description: This fashion sketch is about fresh twenties.
 ---
@@ -17,5 +20,3 @@ type: Illustration
 software:
 - Photoshop
 ---
-
-Tags:[illustrations,personal]

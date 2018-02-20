@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /freelance-paris-travel
 title: Paris Travel
+tags:
+  - logos
+  - freelance
 date: 2015-10-22T15:04:10.000Z
 description: This logo was created for a travel agency to advertise tourism in Paris.
 ---
@@ -17,5 +20,3 @@ type: Logo
 software:
 - Illustrator
 ---
-
-Tags:[logos,freelance]

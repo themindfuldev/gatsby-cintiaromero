@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /epifania-road-trip
 title: Road trip brochure
+tags:
+  - brochures
+  - epifania
 date: 2016-08-07T15:04:10.000Z
 description: Illustrated brochure for an article about road trips by Epifania Magazine.
 ---
@@ -17,5 +20,3 @@ type: Poster
 software:
 - Illustrator
 ---
-
-Tags:[brochures,epifania]

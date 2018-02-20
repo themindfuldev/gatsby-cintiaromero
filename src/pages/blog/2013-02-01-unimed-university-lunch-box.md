@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /unimed-university-lunch-box
 title: Lunch box
+tags:
+  - miscellaneous
+  - unimed-university
 date: 2013-02-01T15:04:10.000Z
 description: This package design is for a customized lunch box.
 ---
@@ -18,5 +21,3 @@ software:
 - Photoshop
 - Illustrator
 ---
-
-Tags:[miscellaneous,unimed-university]

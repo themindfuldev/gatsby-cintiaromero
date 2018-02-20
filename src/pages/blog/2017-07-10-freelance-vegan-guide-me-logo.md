@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /freelance-vegan-guide-me-logo
 title: VeganGuide.Me logo
+tags:
+  - logos
+  - freelance
 date: 2017-07-10T15:04:10.000Z
 description: This is a logo for VeganGuide.Me website.
 ---
@@ -18,5 +21,3 @@ type: Logo
 software:
 - Illustrator
 ---
-
-Tags:[logos,freelance]

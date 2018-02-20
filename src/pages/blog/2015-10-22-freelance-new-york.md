@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /freelance-new-york
 title: New York
+tags:
+  - posters
+  - freelance
 date: 2015-10-22T15:04:10.000Z
 description: This poster is intended to represent New York city in an tourism agency.
 ---
@@ -17,5 +20,3 @@ type: Poster
 software:
 - Illustrator
 ---
-
-Tags:[posters,freelance]

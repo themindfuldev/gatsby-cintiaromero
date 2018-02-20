@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /epifania-quote-bed-side
 title: Quote - Bed side
+tags:
+  - social-media
+  - epifania
 date: 2016-08-07T15:04:10.000Z
 description: Artwork to be posted on the Epifania's Instagram profile.
 ---
@@ -18,5 +21,3 @@ software:
 - Photoshop
 - Illustrator
 ---
-
-Tags:[social-media,epifania]

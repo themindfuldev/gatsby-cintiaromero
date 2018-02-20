@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /personal-consultoria-de-imagem
 title: Consultoria de imagem
+tags:
+  - posters
+  - personal
 date: 2013-08-01T15:04:10.000Z
 description: This poster is intended to promote image consultant services.
 ---
@@ -17,5 +20,3 @@ type: Poster
 software:
 - Illustrator
 ---
-
-Tags:[posters,personal]

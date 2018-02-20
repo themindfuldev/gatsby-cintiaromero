@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /personal-florence
 title: Florence
+tags:
+  - logos
+  - personal
 date: 2015-12-13T15:04:10.000Z
 description:  This silhouette logo is intended to represent a lady with a hat.
 ---
@@ -17,5 +20,3 @@ type: Logo
 software:
 - Illustrator
 ---
-
-Tags:[logos,personal]

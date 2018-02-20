@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /unimed-university-squeeze-bottle
 title: Squeeze bottle
+tags:
+  - miscellaneous
+  - unimed-university
 date: 2013-02-01T15:04:10.000Z
 description: This package design is for a customized squeeze bottle.
 ---
@@ -17,5 +20,3 @@ type: Package design
 software:
 - Illustrator
 ---
-
-Tags:[miscellaneous,unimed-university]

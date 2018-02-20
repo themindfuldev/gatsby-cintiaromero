@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /epifania-book-club-logo
 title: Book club logo
+tags:
+  - logos
+  - epifania
 date: 2016-03-20T15:04:10.000Z
 description: This logo represents the book club organized by Epifania Magazine.
 ---
@@ -17,5 +20,3 @@ type: Logo
 software:
 - Illustrator
 ---
-
-Tags:[logos,epifania]

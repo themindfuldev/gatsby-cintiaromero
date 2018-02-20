@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /personal-bendito
 title: O Bendito Pão de Queijo website
+tags:
+  - web-design
+  - personal
 date: 2016-08-07T15:04:10.000Z
 description: This webdesign was created for a Brazilian cheese bread business.
 ---
@@ -29,5 +32,3 @@ software:
 ### Related work
 - Check out <a href="http://cintiaromero.com/bendito" target="_blank">cintiaromero.com/bendito</a>.
 
-
-Tags:[web-design,personal]

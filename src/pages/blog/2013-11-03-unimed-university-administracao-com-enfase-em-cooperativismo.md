@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /unimed-university-administracao-com-enfase-com-cooperativismo
 title: Administração com ênfase em Cooperativismo
+tags:
+  - brochures
+  - unimed-university
 date: 2013-11-03T15:04:10.000Z
 description: This tri-fold is meant to advertise the Administration with emphasis in Cooperative.
 ---
@@ -20,5 +23,3 @@ software:
 - InDesign
 - Photoshop
 ---
-
-Tags:[brochures,unimed-university]

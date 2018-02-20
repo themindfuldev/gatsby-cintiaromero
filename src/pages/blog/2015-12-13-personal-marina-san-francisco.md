@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /personal-marina-san-francisco
 title: Marina - San Francisco
+tags:
+  - posters
+  - personal
 date: 2015-12-13T15:04:10.000Z
 description: This poster is about Marina neighborhood in San Francisco.
 ---
@@ -17,5 +20,3 @@ type: Poster
 software:
 - Illustrator
 ---
-
-Tags:[posters,personal]

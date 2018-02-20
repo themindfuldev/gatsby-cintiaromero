@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /epifania-new-logo
 title: Epifania new logo
+tags:
+  - logos
+  - epifania
 date: 2017-08-05T15:04:10.000Z
 description: New logo to be added to the website and socials.
 ---
@@ -17,5 +20,3 @@ type: Logo
 software:
 - Illustrator
 ---
-
-Tags:[logos,epifania]

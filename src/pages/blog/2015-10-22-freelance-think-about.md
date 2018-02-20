@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /freelance-think-about
 title: Think about
+tags:
+  - logos
+  - freelance
 date: 2015-10-22T15:04:10.000Z
 description: This logo intended to make people think about some important cause in a company.
 ---
@@ -17,5 +20,3 @@ type: Logo
 software:
 - Illustrator
 ---
-
-Tags:[logos,freelance]

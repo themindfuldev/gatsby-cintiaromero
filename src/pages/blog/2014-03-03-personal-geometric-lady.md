@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /personal-geometric-lady
 title: Geometric lady
+tags:
+  - illustrations
+  - personal
 date: 2014-03-03T15:04:10.000Z
 description: This fashion sketch is about geometric lady.
 ---
@@ -15,5 +18,3 @@ date: 2014/3/3
 image: https://farm4.staticflickr.com/3819/33188044921_f75648b624
 type: Illustration
 ---
-
-Tags:[illustrations,personal]

@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /epifania-walk-and-chat
 title: Walk and chat banner
+tags:
+  - social-media
+  - epifania
 date: 2016-05-07T15:04:10.000Z
 description: This banner was created for a Facebook and Eventbrite event page for a walk and chat event by Epifania Magazine.
 ---
@@ -18,5 +21,3 @@ software:
 - Photoshop
 - Illustrator
 ---
-
-Tags:[social-media,epifania]

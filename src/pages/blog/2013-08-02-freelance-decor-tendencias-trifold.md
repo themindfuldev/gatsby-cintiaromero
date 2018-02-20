@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /freelance-decor-tendencias-trifold
 title: Decor Tendências Trifold
+tags:
+  - brochures
+  - freelance
 date: 2013-08-02T15:04:10.000Z
 description: This tri-fold brochure is intended to promote a trends in decoration event.
 ---
@@ -18,5 +21,3 @@ software:
 - InDesign
 - Photoshop
 ---
-
-Tags:[brochures,freelance]

@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /freelance-healthcare-website
 title: Healthcare website
+tags:
+  - ux
+  - freelance
 date: 2016-03-13T15:04:10.000Z
 description: This webdesign was created for a fictitious healthcare company.
 ---
@@ -18,5 +21,3 @@ software:
 - HTML
 - CSS
 ---
-
-Tags:[ux,freelance]

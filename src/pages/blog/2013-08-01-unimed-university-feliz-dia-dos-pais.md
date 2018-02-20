@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /unimed-university-feliz-dia-dos-pais
 title: Feliz dia dos pais
+tags:
+  - social-media
+  - unimed-university
 date: 2013-08-01T15:04:10.000Z
 description: This banner is for a father's day campaign.
 ---
@@ -17,5 +20,3 @@ type: Banner
 software:
 - Photoshop
 ---
-
-Tags:[social-media,unimed-university]

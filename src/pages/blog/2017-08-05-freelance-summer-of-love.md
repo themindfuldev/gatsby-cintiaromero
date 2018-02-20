@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /freelance-summer-of-love
 title: Summer of Love
+tags:
+  - posters
+  - freelance
 date: 2017-08-05T15:04:10.000Z
 description: This banner was created to advertise a Summer of Love concert for the band Unwholesome Folsoms.
 ---
@@ -18,5 +21,3 @@ software:
 - Illustrator
 - Photoshop
 ---
-
-Tags:[posters,freelance]

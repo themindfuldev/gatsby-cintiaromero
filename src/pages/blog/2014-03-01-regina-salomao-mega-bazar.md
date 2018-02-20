@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /regina-salomao-mega-bazar
 title: Mega bazar
+tags:
+  - email-marketing
+  - regina-salomao
 date: 2014-03-01T15:04:10.000Z
 description: This email marketing design image is for a sales marketing campaign.
 ---
@@ -17,5 +20,3 @@ type: Email marketing
 software:
 - InDesign
 ---
-
-Tags:[email-marketing,regina-salomao]

@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /freelance-2gether
 title: 2gether
+tags:
+  - logos
+  - freelance
 date: 2015-10-22T15:04:10.000Z
 description: This logo is intended to represent a non-profit organization that helps cats and dogs.
 ---
@@ -17,5 +20,3 @@ type: Logo
 software:
 - Illustrator
 ---
-
-Tags:[logos,freelance]

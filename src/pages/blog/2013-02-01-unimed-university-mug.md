@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /unimed-university-mug
 title: Mug
+tags:
+  - miscellaneous
+  - unimed-university
 date: 2013-02-01T15:04:10.000Z
 description: This printing design is for a customized mug.
 ---
@@ -17,5 +20,3 @@ type: Printing design
 software:
 - Illustrator
 ---
-
-Tags:[miscellaneous,unimed-university]

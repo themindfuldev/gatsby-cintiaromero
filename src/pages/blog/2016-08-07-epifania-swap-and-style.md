@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /epifania-swap-and-style
 title: wap & style banner
+tags:
+  - posters
+  - epifania
 date: 2016-08-07T15:04:10.000Z
 description: This banner was created for a women clothes swap event by Epifania Magazine.
 ---
@@ -17,5 +20,3 @@ type: Banner
 software:
 - Illustrator
 ---
-
-Tags:[posters,epifania]

@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /personal-avante-garde-brochure
 title: Avant Garde brochure
+tags:
+  - brochures
+  - personal
 date: 2015-12-12T15:04:10.000Z
 description: This brochure is intended to explore and demonstrate Avant Garde concepts.
 ---
@@ -19,5 +22,3 @@ type: Brochure
 software:
 - InDesign
 ---
-
-Tags:[brochures,personal]

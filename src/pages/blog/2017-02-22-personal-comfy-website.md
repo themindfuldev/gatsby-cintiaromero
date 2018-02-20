@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /personal-comfy-website
 title: Comfy's website
+tags:
+  - web-design
+  - personal
 date: 2017-02-22T15:04:10.000Z
 description: Comfy is a mobile conference app that will help attendees to make the most of their experience during the event, developed as my final project at General Assembly's UX course. 
 ---
@@ -25,5 +28,3 @@ software:
 ### Related work
 - Check out <a href="http://cintiaromero.com/comfy" target="_blank">cintiaromero.com/comfy</a>.
 - Also check out <a href="/ux/personal-comfy-prototype/">Comfy's prototype</a>.
-
-Tags:[web-design,personal]

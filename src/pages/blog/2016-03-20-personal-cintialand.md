@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /personal-cintialand
 title: Cintialand website
+tags:
+  - web-design
+  - personal
 date: 2016-03-20T15:04:10.000Z
 description: This webdesign was created for a personal blog.
 ---
@@ -24,5 +27,3 @@ software:
 <br/>
 ### Related work
 - Check out <a href="http://cintialand.com" target="_blank">cintialand.com</a>.
-
-Tags:[web-design,personal]

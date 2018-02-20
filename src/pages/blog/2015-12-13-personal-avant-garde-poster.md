@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /personal-avante-garde-poster
 title: Avant Garde poster
+tags:
+  - posters
+  - personal
 date: 2015-12-13T15:04:10.000Z
 description: This poster is intended to explore and demonstrate Avant Garde concepts.
 ---
@@ -17,5 +20,3 @@ type: Poster
 software:
 - Illustrator
 ---
-
-Tags:[posters,personal]

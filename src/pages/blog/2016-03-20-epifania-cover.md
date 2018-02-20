@@ -2,6 +2,9 @@
 templateKey: blog-post
 path: /epifania-cover
 title: Cover
+tags:
+  - social-media
+  - epifania
 date: 2016-03-20T15:04:10.000Z
 description: Banner created to be used as a cover on the Epifania's Youtube Channel
 ---
@@ -18,5 +21,3 @@ software:
 - Photoshop
 - Illustrator
 ---
-
-Tags:[social-media,epifania]
