@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /unimed-university-dieta-de-pascoa
 title: Dieta de páscoa
 tags:
+  - visual-design
   - posters
   - unimed-university
 date: 2013-04-01T15:04:10.000Z

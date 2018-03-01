@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /freelance-decor-tendencias
 title: Decor Tendências
 tags:
+  - visual-design
   - posters
   - freelance
 date: 2013-08-01T15:04:10.000Z

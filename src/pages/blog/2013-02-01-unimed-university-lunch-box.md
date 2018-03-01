@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /unimed-university-lunch-box
 title: Lunch box
 tags:
+  - visual-design
   - miscellaneous
   - unimed-university
 date: 2013-02-01T15:04:10.000Z

@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /freelance-think-about
 title: Think about
 tags:
+  - visual-design
   - logos
   - freelance
 date: 2015-10-22T15:04:10.000Z

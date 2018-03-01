@@ -1,11 +1,19 @@
 @import "~bulma/sass/utilities/initial-variables"
+@import "~bulma/sass/utilities/functions"
 
 // Config
-$kaldi-red: #FD461E
-$kaldi-red-invert: #fff
+$blue-link  : #008CBA
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
+$purple       : rgba(153, 153, 255, 0.4)
+$blue         : rgba(153, 204, 255, 0.4)
+$green        : rgba(153, 255, 204, 0.4) 
+$light-blue   : rgba(153, 255, 255, 0.4)
+$pink         : rgba(255, 153, 204, 0.4)
+$yellow       : rgba(255, 255, 153, 0.4) 
+
+  
+$primary: $pink
+$primary-invert: findColorInvert($pink)
 
 // Helper Classes
 .full-width-image-container

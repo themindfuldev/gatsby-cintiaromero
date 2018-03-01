@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /personal-marina-san-francisco
 title: Marina - San Francisco
 tags:
+  - visual-design
   - posters
   - personal
 date: 2015-12-13T15:04:10.000Z

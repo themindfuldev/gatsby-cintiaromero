@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /unimed-university-assessoria-de-gestao
 title: Assessoria de Gestão
 tags:
+  - visual-design
   - brochures
   - unimed-university
 date: 2013-02-01T15:04:10.000Z

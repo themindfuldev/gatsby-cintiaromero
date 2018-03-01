@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /personal-florence
 title: Florence
 tags:
+  - visual-design
   - logos
   - personal
 date: 2015-12-13T15:04:10.000Z

@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /avenue-code-flyer-1
 title: Avenue Code flyer
 tags:
+  - visual-design
   - brochures
   - avenue-code
 date: 2011-08-01T15:04:10.000Z

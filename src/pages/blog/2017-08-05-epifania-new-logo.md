@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /epifania-new-logo
 title: Epifania new logo
 tags:
+  - visual-design
   - logos
   - epifania
 date: 2017-08-05T15:04:10.000Z

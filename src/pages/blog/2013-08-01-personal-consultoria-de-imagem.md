@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /personal-consultoria-de-imagem
 title: Consultoria de imagem
 tags:
+  - visual-design
   - posters
   - personal
 date: 2013-08-01T15:04:10.000Z

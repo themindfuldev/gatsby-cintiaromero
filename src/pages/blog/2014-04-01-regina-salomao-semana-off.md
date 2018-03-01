@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /regina-salomao-semana-off
 title: Semana off
 tags:
+  - visual-design
   - email-marketing
   - regina-salomao
 date: 2014-04-01T15:04:10.000Z

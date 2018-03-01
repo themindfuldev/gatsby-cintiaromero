@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /unimed-university-conhecimento-para-ir-mais-longe
 title: Conhecimento para ir mais longe
 tags:
+  - visual-design
   - social-media
   - unimed-university
 date: 2013-06-01T15:04:10.000Z

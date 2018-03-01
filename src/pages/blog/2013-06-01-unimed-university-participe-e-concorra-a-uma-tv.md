@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /unimed-university-participe-e-concorra-a-uma-tv
 title: Participe e concorra a uma TV
 tags:
+  - visual-design
   - miscellaneous
   - unimed-university
 date: 2013-06-01T15:04:10.000Z

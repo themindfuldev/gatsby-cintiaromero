@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /unimed-university-feliz-dia-dos-pais
 title: Feliz dia dos pais
 tags:
+  - visual-design
   - social-media
   - unimed-university
 date: 2013-08-01T15:04:10.000Z

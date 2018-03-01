@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /freelance-live-music
 title: Live music
 tags:
+  - visual-design
   - posters
   - freelance
 date: 2015-10-22T15:04:10.000Z

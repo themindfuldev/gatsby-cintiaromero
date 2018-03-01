@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /freelance-paris-travel
 title: Paris Travel
 tags:
+  - visual-design
   - logos
   - freelance
 date: 2015-10-22T15:04:10.000Z

@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /unimed-university-anatomia-do-enfermeiro
 title: Anatomia do enfermeiro
 tags:
+  - visual-design
   - email-marketing
   - unimed-university
 date: 2013-05-01T15:04:10.000Z

@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /freelance-vegan-guide-me-logo
 title: VeganGuide.Me logo
 tags:
+  - visual-design
   - logos
   - freelance
 date: 2017-07-10T15:04:10.000Z

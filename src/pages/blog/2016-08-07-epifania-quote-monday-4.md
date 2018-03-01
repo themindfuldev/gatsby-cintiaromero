@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /epifania-quote-monday-4
 title: Quote - Monday 4
 tags:
+  - visual-design
   - social-media
   - epifania
 date: 2016-08-07T15:04:10.000Z

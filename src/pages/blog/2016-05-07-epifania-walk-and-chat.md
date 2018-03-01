@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /epifania-walk-and-chat
 title: Walk and chat banner
 tags:
+  - visual-design
   - social-media
   - epifania
 date: 2016-05-07T15:04:10.000Z

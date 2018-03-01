@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /freelance-summer-of-love
 title: Summer of Love
 tags:
+  - visual-design
   - posters
   - freelance
 date: 2017-08-05T15:04:10.000Z

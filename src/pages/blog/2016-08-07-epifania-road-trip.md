@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /epifania-road-trip
 title: Road trip brochure
 tags:
+  - visual-design
   - brochures
   - epifania
 date: 2016-08-07T15:04:10.000Z

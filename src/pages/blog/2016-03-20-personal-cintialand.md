@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /personal-cintialand
 title: Cintialand website
 tags:
+  - visual-design
   - web-design
   - personal
 date: 2016-03-20T15:04:10.000Z

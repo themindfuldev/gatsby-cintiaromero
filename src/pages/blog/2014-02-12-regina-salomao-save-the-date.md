@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /regina-salomao-save-the-date
 title: Save the date
 tags:
+  - visual-design
   - email-marketing
   - regina-salomao
 date: 2014-02-12T15:04:10.000Z

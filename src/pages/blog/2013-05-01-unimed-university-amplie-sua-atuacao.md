@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /unimed-university-amplie-sua-atuacao
 title: Amplie sua atuação
 tags:
+  - visual-design
   - brochures
   - unimed-university
 date: 2013-05-01T15:04:10.000Z

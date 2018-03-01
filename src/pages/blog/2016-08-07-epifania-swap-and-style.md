@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /epifania-swap-and-style
 title: wap & style banner
 tags:
+  - visual-design
   - posters
   - epifania
 date: 2016-08-07T15:04:10.000Z

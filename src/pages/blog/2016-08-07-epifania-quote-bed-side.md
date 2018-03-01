@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /epifania-quote-bed-side
 title: Quote - Bed side
 tags:
+  - visual-design
   - social-media
   - epifania
 date: 2016-08-07T15:04:10.000Z

@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /regina-salomao-mega-bazar
 title: Mega bazar
 tags:
+  - visual-design
   - email-marketing
   - regina-salomao
 date: 2014-03-01T15:04:10.000Z

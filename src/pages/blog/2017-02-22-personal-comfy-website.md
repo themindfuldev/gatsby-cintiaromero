@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /personal-comfy-website
 title: Comfy's website
 tags:
+  - visual-design
   - web-design
   - personal
 date: 2017-02-22T15:04:10.000Z

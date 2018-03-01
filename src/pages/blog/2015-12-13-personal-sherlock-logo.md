@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /personal-sherlock-logo
 title: Sherlock logo
 tags:
+  - visual-design
   - logos
   - personal
 date: 2015-12-13T15:04:10.000Z

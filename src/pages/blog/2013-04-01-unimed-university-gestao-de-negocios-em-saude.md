@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /unimed-university-gestao-de-negocios-em-saude
 title: Gestão de Negócios em Saúde
 tags:
+  - visual-design
   - brochures
   - unimed-university
 date: 2013-04-01T15:04:10.000Z

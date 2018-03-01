@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /epifania-cover
 title: Cover
 tags:
+  - visual-design
   - social-media
   - epifania
 date: 2016-03-20T15:04:10.000Z

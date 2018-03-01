@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /personal-avante-garde-brochure
 title: Avant Garde brochure
 tags:
+  - visual-design
   - brochures
   - personal
 date: 2015-12-12T15:04:10.000Z

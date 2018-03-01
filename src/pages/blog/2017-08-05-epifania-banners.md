@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /epifania-banners
 title: Banners Epifania
 tags:
+  - visual-design
   - banners
   - epifania
 date: 2017-08-05T15:04:10.000Z

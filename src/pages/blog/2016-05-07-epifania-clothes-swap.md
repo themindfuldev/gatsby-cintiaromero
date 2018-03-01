@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /epifania-clothes-swap
 title: Clothes swap banner
 tags:
+  - visual-design
   - social-media
   - epifania
 date: 2016-05-07T15:04:10.000Z

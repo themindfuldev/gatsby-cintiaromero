@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /freelance-employee-orientation
 title: Employee orientation tri-fold for City College of San Francisco
 tags:
+  - visual-design
   - brochures
   - freelance
 date: 2014-08-01T15:04:10.000Z

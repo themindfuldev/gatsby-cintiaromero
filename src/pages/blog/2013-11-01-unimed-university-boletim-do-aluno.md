@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /unimed-university-boletim-do-aluno
 title: Boletim do aluno
 tags:
+  - visual-design
   - brochures
   - unimed-university
 date: 2013-11-01T15:04:10.000Z

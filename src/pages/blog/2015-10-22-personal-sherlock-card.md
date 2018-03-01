@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /personal-sherlock-card
 title: Sherlock-card
 tags:
+  - visual-design
   - logos
   - personal
 date: 2015-10-22T15:04:10.000Z

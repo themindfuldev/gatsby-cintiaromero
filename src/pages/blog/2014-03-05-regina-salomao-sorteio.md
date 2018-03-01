@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /regina-salomao-sorteio
 title: Sorteio
 tags:
+  - visual-design
   - social-media
   - regina-salomao
 date: 2014-03-05T15:04:10.000Z

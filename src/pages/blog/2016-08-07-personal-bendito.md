@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /personal-bendito
 title: O Bendito Pão de Queijo website
 tags:
+  - visual-design
   - web-design
   - personal
 date: 2016-08-07T15:04:10.000Z

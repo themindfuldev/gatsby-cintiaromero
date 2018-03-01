@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /freelance-decor-tendencias-trifold
 title: Decor Tendências Trifold
 tags:
+  - visual-design
   - brochures
   - freelance
 date: 2013-08-02T15:04:10.000Z

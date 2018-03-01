@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /regina-salomao-celebrate
 title: Celebrate
 tags:
+  - visual-design
   - email-marketing
   - regina-salomao
 date: 2014-02-01T15:04:10.000Z

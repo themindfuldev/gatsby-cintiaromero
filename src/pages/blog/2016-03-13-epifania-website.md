@@ -3,6 +3,7 @@ templateKey: blog-post
 path: /epifania-website
 title: Epifania website
 tags:
+  - visual-design
   - web-design
   - epifania
 date: 2016-03-13T15:04:10.000Z
