@@ -1,7 +1,7 @@
 import React from 'react';
 import graphql from 'graphql';
 import Helmet from 'react-helmet';
-import Content, { HTMLContent } from '../components/Content';
+import Content, { HTMLContent } from '../components/content/Content';
 
 export const BlogPostTemplate = ({
   content, contentComponent, description, title, helmet,

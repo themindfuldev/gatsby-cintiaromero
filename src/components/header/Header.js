@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'gatsby-link';
 
-import logo from '../img/logo.png';
+import logo from '../../img/logo.png';
 import './header.sass';
 
 class Header extends React.Component {
