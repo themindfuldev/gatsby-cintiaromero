@@ -1,21 +1,27 @@
 import React from 'react';
 import Header from '../header/Header';
 import './banner.sass';
+import logo from './logo.png';
 
 const Banner = () => (
-	<section className="main-hero hero is-fullheight is-light">
+	<section className="main-hero hero is-fullheight">
 		<div className="hero-head">
 			<Header />
 		</div>
 		<div className="hero-body">
 			<div className="main-banner container has-text-centered">
+				<div className="has-text-centered">
+					<img src={logo} alt="Logo" />
+				</div>
 				<h1 className="title is-1 is-spaced">
-					Hi. I'm Cintia Romero
+					Hi, I'm Cintia Romero.
 				</h1>
 				<h2 className="subtitle">
 					I design and develop experiences that make people's life simpler.
 				</h2>
-				<div className="columns is-mobile is-multiline is-centered">
+				<br/>
+				<br />
+				<div className="main-social-icons columns is-mobile is-multiline is-centered">
 					<div className="column is-narrow">
 						<a href="https://www.pinterest.com/cintiaromero313" target="_blank" rel="noopener noreferrer">
 							<i className="fab fa-pinterest-square fa-2x"></i>
@@ -37,6 +43,13 @@ const Banner = () => (
 						</a>
 					</div>
 				</div>
+			</div>
+		</div>
+		<div className="hero-foot">
+			<div className="section has-text-centered">
+				<a href="#">
+					<i className="fas fa-chevron-circle-down fa-3x"></i>
+				</a>
 			</div>
 		</div>
 	</section>
