@@ -2,6 +2,7 @@ import React from 'react';
 import Header from '../header/Header';
 import './banner.sass';
 import logo from './logo.png';
+import { scrollDown } from '../../utils/scrolling';
 
 const Banner = () => (
 	<section className="main-hero hero is-fullheight">
@@ -47,7 +48,7 @@ const Banner = () => (
 		</div>
 		<div className="hero-foot">
 			<div className="section has-text-centered">
-				<a href="#">
+				<a href="#about" onClick={scrollDown}>
 					<i className="fas fa-chevron-circle-down fa-3x"></i>
 				</a>
 			</div>
