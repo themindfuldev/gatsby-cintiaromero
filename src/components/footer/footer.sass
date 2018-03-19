@@ -1,0 +1,14 @@
+ul.footer-links 
+  list-style-type: none
+  margin-left: 0
+
+  li 
+    display: inline
+    white-space: nowrap
+
+    &::after
+      content: "•"
+      padding: 0 0.75rem
+
+    &:last-child::after
+      content: ""      
