@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from '../header/Header';
-import './banner.sass';
+import './hi.sass';
 import logo from './logo.png';
 import { scrollDown } from '../../utils/scrolling';
 
