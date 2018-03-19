@@ -15,9 +15,26 @@ const About = () => (
             <div className="content is-size-5">
               <p>I am a UX and Visual Designer for multiple devices and platforms with 8+ years of experience, based in San Francisco Bay Area.</p>
               <p>Hiking, The Walking Dead and Speculoos cookie butter are just a few of my favorite things.</p>
-              <p>I completed Certificate Programs in User Experience Design at General Assembly in San Francisco, and in Visual Design at UC Berkeley Extension. Besides, I have a Bachelor’s degree in Advertising and Marketing and a MBA in Creative Direction for Fashion, both in Brazil. Be welcome to contact me. Let’s share some ideas!</p>
-              <button>DOWNLOAD MY RESUME</button>
-              <button>SEE MORE ON LINKEDIN</button>
+              <p>I completed Certificate Programs in User Experience Design at General Assembly in San Francisco, and in Visual Design at UC Berkeley Extension. Besides, I have a Bachelor’s degree in Advertising and Marketing and a MBA in Creative Direction for Fashion, both in Brazil.</p>
+              <br/>
+              <nav className="level">
+                <div className="level-item has-text-centered">
+                  <a href="/pdf/resume-cintia-romero.pdf" target="_blank" rel="noopener noreferrer" className="button is-medium is-link">
+                    <span className="icon">
+                      <i className="fas fa-file-alt"></i>
+                    </span>
+                    <span>DOWNLOAD MY RESUME</span>
+                  </a>
+                </div>
+                <div className="level-item has-text-centered">
+                  <a href="https://www.linkedin.com/in/cintiaromero" target="_blank" rel="noopener noreferrer" className="button is-medium is-link">
+                    <span className="icon">
+                      <i className="fab fa-linkedin"></i>
+                    </span>
+                    <span>SEE MORE ON LINKEDIN</span>
+                  </a>
+                </div>
+              </nav>                          
             </div>
           </div>
         </div>
