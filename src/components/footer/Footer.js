@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
+import SocialIcons from '../social-icons/SocialIcons';
 import './footer.sass';
 
 const Footer = () => (
@@ -22,24 +23,7 @@ const Footer = () => (
         </div>
         <div className="level-right">
           <div className="level-item">
-            <a href="https://www.pinterest.com/cintiaromero313" target="_blank" rel="noopener noreferrer">
-              <i className="fab fa-pinterest-square fa-3x"></i>
-            </a>
-          </div>
-          <div className="level-item">
-            <a href="https://instagram.com/cintiaaaromero" target="_blank" rel="noopener noreferrer">
-              <i className="fab fa-instagram fa-3x"></i>
-            </a>
-          </div>
-          <div className="level-item">
-            <a href="https://twitter.com/cintiaaa_romero" target="_blank" rel="noopener noreferrer">
-              <i className="fab fa-twitter-square fa-3x"></i>
-            </a>
-          </div>
-          <div className="level-item">
-            <a href="https://www.linkedin.com/in/cintiaromero" target="_blank" rel="noopener noreferrer">
-              <i className="fab fa-linkedin fa-3x"></i>
-            </a>
+            <SocialIcons />
           </div>
         </div>
       </div>

@@ -17,7 +17,7 @@ class Header extends React.Component {
     const { isBurgerOpen } = this.state;
 
     const burgerClass = `navbar-burger ${isBurgerOpen && 'is-active'}`; 
-    const mainClass = `main-menu navbar-menu is-size-6 is-uppercase ${isBurgerOpen? 'is-active': 'is-flex is-hidden-mobile'}`;
+    const mainClass = `header-menu navbar-menu is-size-6 is-uppercase ${isBurgerOpen? 'is-active': 'is-flex is-hidden-mobile'}`;
 
     return (
       <nav className="navbar is-transparent is-fixed-top" role="navigation" aria-label="main navigation">

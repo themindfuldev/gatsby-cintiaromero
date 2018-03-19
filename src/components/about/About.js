@@ -2,12 +2,12 @@ import React from 'react';
 import './about.sass';
 
 const About = () => (
-  <section id="about" className="hero is-light is-medium">
+  <section id="about" className="about-hero hero is-light">
     <div className="hero-body">
       <div className="container">
         <div className="columns">
           <div className="column is-one-third">
-            <figure className="image is-256x256">
+            <figure className="about-avatar image is-256x256">
               <img className="is-rounded" src="https://www.gravatar.com/avatar/2588358b0e7310498ff507b4266f460e?s=250" />
             </figure>
           </div>
