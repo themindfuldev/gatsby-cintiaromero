@@ -18,6 +18,8 @@ class Header extends React.Component {
 
     const burgerClass = `navbar-burger ${isBurgerOpen && 'is-active'}`; 
     const mainClass = `header-menu navbar-menu is-size-6 is-uppercase ${isBurgerOpen? 'is-active': 'is-flex is-hidden-mobile'}`;
+    const pathName = window.document.location.pathname;
+    const getSelectedClass = path => `navbar-item ${path === pathName? 'selected': ''}`;
 
     return (
       <nav className="navbar is-transparent is-fixed-top" role="navigation" aria-label="main navigation">
@@ -33,16 +35,16 @@ class Header extends React.Component {
             </div>
           </div>
           <div className={mainClass}>
-            <Link className="navbar-item" to="/">
+            <Link className={getSelectedClass('/')} to="/">
               About
             </Link>
-            <Link className="navbar-item" to="/tags/ux">
+            <Link className={getSelectedClass('/tags/ux')} to="/tags/ux">
               UX
             </Link>
-            <Link className="navbar-item" to="/tags/visual-design">
+            <Link className={getSelectedClass('/tags/visual-design')} to="/tags/visual-design">
               Visual Design
             </Link>
-            <Link className="navbar-item" to="/tags/illustrations">
+            <Link className={getSelectedClass('/tags/illustrations')} to="/tags/illustrations">
               Illustrations
             </Link>
           </div>
