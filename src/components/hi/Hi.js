@@ -3,7 +3,7 @@ import Header from '../header/Header';
 import SocialIcons from '../social-icons/SocialIcons';
 import './hi.sass';
 import logo from './logo.png';
-import { scrollDown } from '../../utils/scrolling';
+import { scrollIt } from '../../utils/scrolling';
 
 const Banner = () => (
 	<section className="hi-hero hero is-fullheight">
@@ -27,7 +27,7 @@ const Banner = () => (
 		</div>
 		<div className="hero-foot">
 			<div className="section has-text-centered">
-				<a href="#about" onClick={scrollDown}>
+				<a href="#about" onClick={scrollIt}>
 					<i className="fas fa-chevron-circle-down fa-3x"></i>
 				</a>
 			</div>

@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
+import smoothscroll from 'smoothscroll-polyfill';
 
 import './all.sass';
 
@@ -16,5 +17,8 @@ const TemplateWrapper = ({ children }) => (
 TemplateWrapper.propTypes = {
   children: PropTypes.func,
 };
+
+// kick off the polyfill!
+smoothscroll.polyfill();
 
 export default TemplateWrapper;
