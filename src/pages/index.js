@@ -4,7 +4,6 @@ import Script from "react-load-script";
 import Hi from '../components/hi/Hi';
 import About from '../components/about/About';
 import Stuff from '../components/stuff/Stuff';
-import Footer from '../components/footer/Footer';
 
 export default class IndexPage extends React.Component {  
   render() {
@@ -13,7 +12,6 @@ export default class IndexPage extends React.Component {
         <Hi />
         <About />
         <Stuff />
-        <Footer />
       </div>
     );
   }

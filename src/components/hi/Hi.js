@@ -1,5 +1,4 @@
 import React from 'react';
-import Header from '../header/Header';
 import SocialIcons from '../social-icons/SocialIcons';
 import './hi.sass';
 import logo from './logo.png';
@@ -7,11 +6,9 @@ import { scrollIt } from '../../utils/scrolling';
 
 const Banner = () => (
 	<section className="hi-hero hero is-fullheight">
-		<div className="hero-head">
-			<Header />
-		</div>
 		<div className="hero-body">
 			<div className="hi-banner container has-text-centered">
+				<br />
 				<div className="has-text-centered">
 					<img src={logo} alt="Logo" />
 				</div>

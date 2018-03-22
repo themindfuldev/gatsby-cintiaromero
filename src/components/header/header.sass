@@ -1,7 +1,18 @@
-.header-menu
-	justify-content: center
-	box-shadow: none !important
-	background: none !important
+.header-navbar
+	background-color: rgba(122, 122, 122, 0.75) !important
+	color: white !important
 
-	a.selected
-		color: #f06000
+	.navbar-item, a.navbar-item:hover, a.navbar-item.is-active, a.navbar-link:hover, a.navbar-link.is-active
+		color: white
+
+		&.selected
+			color: black
+
+	a.navbar-item:hover, a.navbar-item.is-active, a.navbar-link:hover, a.navbar-link.is-active
+		background-color: transparent
+		color: #f9f993
+
+	.header-menu
+		justify-content: center
+		box-shadow: none !important
+		background: none !important
