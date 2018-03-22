@@ -18,7 +18,7 @@ class Header extends React.Component {
 
     const burgerClass = `navbar-burger ${isBurgerOpen && 'is-active'} is-light`; 
     const mainClass = `header-menu navbar-menu is-size-6 is-uppercase ${isBurgerOpen? 'is-active': 'is-flex is-hidden-mobile'}`;
-    const pathName = window.document.location.pathname;
+    const pathName = typeof window !== 'undefined'? window.document.location.pathname: '';
     const getSelectedClass = path => `navbar-item ${path === pathName? 'selected': ''}`;
 
     return (

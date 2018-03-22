@@ -23,6 +23,8 @@ TemplateWrapper.propTypes = {
 };
 
 // kick off the polyfill!
-smoothscroll.polyfill();
+if (typeof window !== 'undefined') {
+  smoothscroll.polyfill();
+}
 
 export default TemplateWrapper;
