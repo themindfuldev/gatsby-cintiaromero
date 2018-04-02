@@ -1,32 +1,49 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import Banner from '../components/banner/Banner';
+import InlinePost from '../components/inline-post/InlinePost';
 
 // Components
 import Link from 'gatsby-link';
 
+const headings = {
+  'ux': {
+    title: 'UX',
+    subtitle: 'Odio turpis amet sed consequat eget posuere consequat.',
+    color: 'is-info'
+  },
+  'visual-design': {
+    title: 'Visual Design',
+    subtitle: 'Odio turpis amet sed consequat eget posuere consequat.',
+    color: 'is-primary'
+  },
+  'illustrations': {
+    title: 'Illustrations',
+    subtitle: 'Odio turpis amet sed consequat eget posuere consequat.',
+    color: 'is-warning'
+  }
+}
+
 const Tags = ({ pathContext, data }) => {
   const { tag } = pathContext;
   const { edges, totalCount } = data.allMarkdownRemark;
-  const tagHeader = `${totalCount} post${totalCount === 1 ? '' : 's'} tagged with "${tag}"`;
+  const heading = headings[tag];
+  let isLeft = false;
 
   return (
     <div>
-      <h1>{tagHeader}</h1>
+      <Banner title={heading.title} subtitle={heading.subtitle} color={heading.color}/>
       <ul>
         {edges.map(({ node }) => {
-          const { path, title } = node.frontmatter;
+          const { path } = node.frontmatter;
+          isLeft = !isLeft;
           return (
-            <li key={path}>
-              <Link to={path}>{title}</Link>
+            <li key={path}>              
+              <InlinePost isLeft={isLeft} {...node.frontmatter} />
             </li>
           );
         })}
-      </ul>
-      {/*
-        This links to a page that does not yet exist.
-        We'll come back to it!
-      */}
-      <Link to="/tags">All tags</Link>
+      </ul>      
     </div>
   );
 };
@@ -55,21 +72,22 @@ Tags.propTypes = {
 export default Tags;
 
 export const pageQuery = graphql`
-    query TagPage($tag: String) {
-      allMarkdownRemark(
-        limit: 2000
-        sort: { fields: [frontmatter___date], order: DESC }
-        filter: { frontmatter: { tags: { in: [$tag] } } }
-      ) {
-        totalCount
-        edges {
-          node {
-            frontmatter {
-              title
-              path
-            }
+  query TagPage($tag: String) {
+    allMarkdownRemark(
+      limit: 2000
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { frontmatter: { tags: { in: [$tag] } } }
+    ) {
+      totalCount
+      edges {
+        node {
+          frontmatter {
+            title
+            path
+            description
           }
         }
       }
     }
+  }
 `;

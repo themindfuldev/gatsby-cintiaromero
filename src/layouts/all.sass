@@ -12,7 +12,9 @@ $custom-yellow      : rgba(255, 255, 153, 0.4)
 
 $link: $grey
 
-$dimensions         :	16 24 32 48 64 96 128 256
+$dimensions         :	16 24 32 48 64 96 128 256 512
+
+@import "~bulma/sass/utilities/derived-variables"
 
 // Helper Classes
 .full-width-image-container
@@ -30,5 +32,11 @@ $dimensions         :	16 24 32 48 64 96 128 256
 
 .margin-top-0
   margin-top: 0 !important
+
+.button.is-link
+  &:hover,
+  &.is-hovered
+    background-color: $link-hover !important
+
 
 @import "~bulma"

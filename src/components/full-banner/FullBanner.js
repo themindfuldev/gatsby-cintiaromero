@@ -1,18 +1,18 @@
 import React from 'react';
 import SocialIcons from '../social-icons/SocialIcons';
-import './hi.sass';
+import './full-banner.sass';
 import logo from './logo.png';
 import { scrollIt } from '../../utils/scrolling';
 
-const Banner = () => (
-	<section className="hi-hero hero is-fullheight">
+const FullBanner = () => (
+	<section className="full-banner-hero hero is-fullheight">
 		<div className="hero-body">
-			<div className="hi-banner container has-text-centered">
+			<div className="full-banner-banner container has-text-centered">
 				<br />
 				<div className="has-text-centered">
 					<img src={logo} alt="Logo" />
 				</div>
-				<h1 className="hi-title title is-spaced">
+				<h1 className="full-banner-title title is-spaced">
 					Hi, I'm Cintia Romero.
 				</h1>
 				<h2 className="subtitle is-size-4">
@@ -32,4 +32,4 @@ const Banner = () => (
 	</section>
 );
 
-export default Banner;
+export default FullBanner;

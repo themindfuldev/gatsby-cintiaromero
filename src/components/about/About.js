@@ -11,7 +11,7 @@ const About = () => (
               <img className="is-rounded" src="https://www.gravatar.com/avatar/2588358b0e7310498ff507b4266f460e?s=250" />
             </figure>
           </div>
-          <div className="tile is-8">
+          <div className="column">
             <div className="content is-size-5">
               <p>I am a UX and Visual Designer for multiple devices and platforms with 8+ years of experience, based in San Francisco Bay Area.</p>
               <p>Hiking, The Walking Dead and Speculoos cookie butter are just a few of my favorite things.</p>
