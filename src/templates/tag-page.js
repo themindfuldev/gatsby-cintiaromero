@@ -27,7 +27,7 @@ const headings = {
 const Tags = ({ pathContext, data }) => {
   const { tag } = pathContext;
   const { edges, totalCount } = data.allMarkdownRemark;
-  const heading = headings[tag];
+  const heading = headings[tag] || {};
   let isLeft = false;
 
   return (
