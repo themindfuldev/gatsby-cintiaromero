@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /unimed-university-dieta-de-pascoa
 title: Dieta de páscoa
 tags:

@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /freelance-employee-orientation
 title: Employee orientation tri-fold for City College of San Francisco
 tags:

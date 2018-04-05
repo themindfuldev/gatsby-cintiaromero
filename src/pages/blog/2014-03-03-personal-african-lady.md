@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-african-lady
 title: African lady
 tags:

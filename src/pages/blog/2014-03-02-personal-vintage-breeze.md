@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-vintage-breeze
 title: Vintage breeze
 tags:

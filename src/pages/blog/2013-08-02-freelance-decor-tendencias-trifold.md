@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /freelance-decor-tendencias-trifold
 title: Decor Tendências Trifold
 tags:

@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /freelance-healthcare-website
 title: Healthcare website
 tags:

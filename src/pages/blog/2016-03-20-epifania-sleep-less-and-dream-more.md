@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /epifania-sleep-less-and-dream-more
 title: Quote - Sleep less and dream more
 tags:

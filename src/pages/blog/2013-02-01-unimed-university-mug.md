@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /unimed-university-mug
 title: Mug
 tags:

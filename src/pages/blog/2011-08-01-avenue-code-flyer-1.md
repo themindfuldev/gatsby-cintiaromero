@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /avenue-code-flyer-1
 title: Avenue Code flyer
 tags:

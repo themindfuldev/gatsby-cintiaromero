@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /freelance-summer-of-love
 title: Summer of Love
 tags:

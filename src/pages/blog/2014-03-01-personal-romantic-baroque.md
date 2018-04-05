@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-romantic-baroque
 title: Romantic baroque
 tags:

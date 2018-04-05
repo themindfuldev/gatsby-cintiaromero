@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /unimed-university-assessoria-de-gestao
 title: Assessoria de Gestão
 tags:

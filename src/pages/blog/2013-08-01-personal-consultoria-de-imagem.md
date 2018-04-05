@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-consultoria-de-imagem
 title: Consultoria de imagem
 tags:

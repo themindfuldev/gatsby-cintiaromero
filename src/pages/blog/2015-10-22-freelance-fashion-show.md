@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /freelance-fashion-show
 title: Fashion show
 tags:

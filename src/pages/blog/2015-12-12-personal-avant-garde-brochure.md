@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-avante-garde-brochure
 title: Avant Garde brochure
 tags:

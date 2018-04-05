@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-marina-san-francisco
 title: Marina - San Francisco
 tags:

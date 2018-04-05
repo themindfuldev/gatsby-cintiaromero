@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /freelance-vegan-guide-me-project
 title: VeganGuide.Me project
 tags:
@@ -7,36 +7,14 @@ tags:
   - freelance
 date: 2017-07-09T15:04:10.000Z
 description: VeganGuide.Me is a fully-responsive website designed to help saving animals lives through sharing knowledge, tips and guiding your vegan shopping experience, featuring a blazing-fast search bar.
+image: https://farm5.staticflickr.com/4240/35831406215_ea92cb8ffb_c.jpg
 ---
 
-title: VeganGuide.Me project
-tag: Personal
-description: VeganGuide.Me is a fully-responsive website designed to help saving animals lives through sharing knowledge, tips and guiding your vegan shopping experience, featuring a blazing-fast search bar.
-category: ux
-field: ux
-date: 2017/07/09
-image: 
-- https://farm5.staticflickr.com/4257/35790900796_b546d7afea
-- https://farm5.staticflickr.com/4288/35790900606_26b166c131
-- https://farm5.staticflickr.com/4289/35831408935_baaa22c816
-- https://farm5.staticflickr.com/4231/35790900996_c67d23efae
-- https://farm5.staticflickr.com/4277/35831408195_5ebc5d77ca
-- https://farm5.staticflickr.com/4263/35831409035_a773f4038d
-- https://farm5.staticflickr.com/4236/34991013584_f6b06692cb
-- https://farm5.staticflickr.com/4215/35831408955_a2e15ea71d
-- https://farm5.staticflickr.com/4255/35662279262_212360363c
-type: Prototype
-software:
+### Software used
 - Illustrator
 - Photoshop
 - Adobe XD
----
-<br/>
-### Related work
-- Check out <a href="http://veganguide.me" target="_blank">veganguide.me</a>.
-- Check out <a href="/logos/personal-vegan-guide-me-logo/">VeganGuide.Me logo</a>.
 
-<br/>
 ### The problem definition 
 
 To build a contemporary vegan guide, offering a convenient and easy way to find information about vegan products, with the promise of simplicity. 
@@ -45,7 +23,6 @@ Our first priority is to make it possible for the users to find specific informa
 
 Besides vegan products, VeganGuide.Me will go beyound that and will also include tips and experiences about veganism. 
 
-<br/>
 ### The User Research
 
 In order to define the best way to present a vegan guide, me and my partner interviewed different profiles of vegans,  vegetarians and vegan-friendly people, so that we could study our solutions for the vegan guide.
@@ -70,7 +47,6 @@ Based on our surveys and interviews, here are the pain points about other vegan 
 
 Understanding people's struggles to find information about vegan products was crucial for us to refine the design solution.
 
-<br/>
 ### The Design Solution
 
 Concepts to solve the problem: 
@@ -80,12 +56,9 @@ Concepts to solve the problem:
 - Direct the user to other respectable vegan websites, giving different alternatives for each subject
 - Social medias profiles included, helping to share information and to build a helpful vegan community
 
-<div class="hide-for-small-only">
-    <h3>Persona</h3>
-    <img src="https://farm5.staticflickr.com/4218/35662538192_c141e98c06_h.jpg" />
-</div>
+#### Persona
+![Persona](https://farm5.staticflickr.com/4218/35662538192_c141e98c06_h.jpg)
 
-<br/>
 #### The Design Process
 
 The main feature of the vegan guide is the search bar. It isn’t a simple bar, but a powerful tool that is simple to use and very fast to find precise information. Inspired by the Yoga Glo APP, Yummly and the customer service page on Walmart.com.br, the results are presented in categories, showing a very organized structure. 
@@ -98,22 +71,40 @@ After a few iterations, we decided to start just with the basic categories of ve
 
 On the image gallery below you can find the initial black & white wireframes, and the final solution which got implemented on the website.
 
-<br/>
+---
 ### The first wireframes
 
-<br/>
-#### Homepage layout
-<img src="https://farm5.staticflickr.com/4240/35831406215_ea92cb8ffb_h.jpg" class="center" />
+#### Home page layout
+![Home page layout](https://farm5.staticflickr.com/4240/35831406215_ea92cb8ffb_h.jpg)
 
-<br/>
-#### Category page layout - Same design for all categories
-<img src="https://farm5.staticflickr.com/4280/35790899346_6e886d541d_h.jpg" class="center" />
+#### Category page layout
+![Category page layout](https://farm5.staticflickr.com/4280/35790899346_6e886d541d_h.jpg)
 
-<br/>
 #### Article page layout
-<img src="https://farm5.staticflickr.com/4284/35790899176_f6f9cfec2e_h.jpg" class="center" />
+![Article page layout](https://farm5.staticflickr.com/4284/35790899176_f6f9cfec2e_h.jpg)
 
-<br/>
 ### Mobile version layout
-<img src="https://farm5.staticflickr.com/4212/35831405815_f5508ce80d_h.jpg" class="center" />
+![Mobile version layout](https://farm5.staticflickr.com/4212/35831405815_f5508ce80d_h.jpg)
 
+---
+### The high-fidelity designs
+
+#### Home page
+![Home page](https://farm5.staticflickr.com/4257/35790900796_b546d7afea_h.jpg)
+
+#### Category page
+![Category page](https://farm5.staticflickr.com/4288/35790900606_26b166c131_h.jpg)
+
+#### Article page
+![Article page](https://farm5.staticflickr.com/4231/35790900996_c67d23efae_h.jpg)
+
+#### Search results page
+![Search results page](https://farm5.staticflickr.com/4277/35831408195_5ebc5d77ca_h.jpg)
+
+#### Mobile Home page
+![Mobile home page](https://farm5.staticflickr.com/4263/35831409035_a773f4038d_h.jpg)
+
+### Related work
+
+- Check out <a href="http://veganguide.me" target="_blank">veganguide.me</a>.
+- Check out <a href="/freelance-vegan-guide-me-logo">VeganGuide.Me logo</a>.

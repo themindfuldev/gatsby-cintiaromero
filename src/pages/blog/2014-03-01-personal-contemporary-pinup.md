@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-contemporary-pinup
 title: Contemporary pinup
 tags:

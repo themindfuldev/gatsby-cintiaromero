@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /epifania-book-club-logo
 title: Book club logo
 tags:

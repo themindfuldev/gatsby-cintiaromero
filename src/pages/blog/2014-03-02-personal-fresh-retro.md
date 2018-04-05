@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-fresh-retro
 title: Fresh retro
 tags:

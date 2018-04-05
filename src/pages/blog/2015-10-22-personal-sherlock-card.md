@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-sherlock-card
 title: Sherlock-card
 tags:

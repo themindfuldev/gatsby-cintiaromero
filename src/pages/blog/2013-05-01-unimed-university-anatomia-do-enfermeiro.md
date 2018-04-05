@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /unimed-university-anatomia-do-enfermeiro
 title: Anatomia do enfermeiro
 tags:

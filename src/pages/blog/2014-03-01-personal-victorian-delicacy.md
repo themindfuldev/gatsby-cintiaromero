@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-victorian-delicacy
 title: Victorian delicacy
 tags:

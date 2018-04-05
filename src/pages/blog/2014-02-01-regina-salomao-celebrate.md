@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /regina-salomao-celebrate
 title: Celebrate
 tags:

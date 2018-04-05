@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /epifania-quote-monday-4
 title: Quote - Monday 4
 tags:

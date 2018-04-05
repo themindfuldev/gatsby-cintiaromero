@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /unimed-university-boletim-do-aluno
 title: Boletim do aluno
 tags:

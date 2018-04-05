@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /unimed-university-conhecimento-para-ir-mais-longe
 title: Conhecimento para ir mais longe
 tags:

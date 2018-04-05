@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /epifania-website
 title: Epifania website
 tags:

@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-elegant-lady
 title: Elegant lady
 tags:

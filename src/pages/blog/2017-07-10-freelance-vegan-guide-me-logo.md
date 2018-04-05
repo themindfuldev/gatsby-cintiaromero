@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /freelance-vegan-guide-me-logo
 title: VeganGuide.Me logo
 tags:

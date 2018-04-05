@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-feminine-texture
 title: Feminine texture
 tags:

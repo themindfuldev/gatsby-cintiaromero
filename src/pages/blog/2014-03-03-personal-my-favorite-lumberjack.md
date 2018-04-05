@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-my-favorite-lumberjack
 title: My favorite lumberjack
 tags:

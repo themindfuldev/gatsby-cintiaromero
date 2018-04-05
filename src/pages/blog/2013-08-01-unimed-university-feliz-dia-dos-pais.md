@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /unimed-university-feliz-dia-dos-pais
 title: Feliz dia dos pais
 tags:

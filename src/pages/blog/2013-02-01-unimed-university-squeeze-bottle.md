@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /unimed-university-squeeze-bottle
 title: Squeeze bottle
 tags:

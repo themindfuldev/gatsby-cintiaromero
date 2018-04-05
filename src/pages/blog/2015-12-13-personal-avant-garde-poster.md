@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-avante-garde-poster
 title: Avant Garde poster
 tags:

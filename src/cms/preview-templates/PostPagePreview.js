@@ -1,12 +1,12 @@
 import React from 'react';
-import { BlogPostTemplate } from '../../templates/blog-post';
+import { PostPageTemplate } from '../../templates/post-page';
 
-const BlogPostPreview = ({ entry, widgetFor }) => (
-  <BlogPostTemplate
+const PostPagePreview = ({ entry, widgetFor }) => (
+  <PostPageTemplate
     content={widgetFor('body')}
     description={entry.getIn(['data', 'description'])}
     title={entry.getIn(['data', 'title'])}
   />
 );
 
-export default BlogPostPreview;
+export default PostPagePreview;

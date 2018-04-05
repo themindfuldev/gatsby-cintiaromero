@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-sweet-ginger
 title: Sweet ginger
 tags:

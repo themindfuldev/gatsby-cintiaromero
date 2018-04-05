@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-sweet-burlesque
 title: Sweet burlesque
 tags:

@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /unimed-university-relatorio-de-gestao
 title: Relatório de Gestão
 tags:

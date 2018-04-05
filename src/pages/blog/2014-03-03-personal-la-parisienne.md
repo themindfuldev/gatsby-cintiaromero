@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-la-parisienne
 title: La parisienne
 tags:

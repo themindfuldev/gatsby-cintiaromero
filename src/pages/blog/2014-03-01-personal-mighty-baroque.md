@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-mighty-baroque
 title: Mighty baroque
 tags:

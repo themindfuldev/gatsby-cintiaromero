@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-minimalist-lady
 title: Minimalist lady
 tags:

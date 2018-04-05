@@ -2,11 +2,13 @@ import React from 'react';
 import Link from 'gatsby-link';
 import './inline-post.sass';
 
-const InlinePost = ({ isLeft, path, title, description }) => {
+const imagePlaceholder = 'https://bulma.io/images/placeholders/1280x960.png';
+
+const InlinePost = ({ isLeft, path, title, description, image = imagePlaceholder}) => {
   const imageColumn = responsiveClass => (
     <div className={`column ${responsiveClass}`}>
       <figure className="image">
-        <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" />
+        <img src={image} alt={title} />
       </figure>
     </div>
   );

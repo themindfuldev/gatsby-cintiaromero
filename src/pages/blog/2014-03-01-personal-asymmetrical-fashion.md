@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-asymmetrical-fashion
 title: Asymmetrical fashion
 tags:

@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /epifania-quote-bed-side
 title: Quote - Bed side
 tags:

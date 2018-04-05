@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-misterious-intent
 title: Misterious intent
 tags:

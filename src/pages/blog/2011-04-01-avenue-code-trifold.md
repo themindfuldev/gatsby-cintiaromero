@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /avenue-code-tri-fold
 title: Avenue Code tri-fold
 tags:

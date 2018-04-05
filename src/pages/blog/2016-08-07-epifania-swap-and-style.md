@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /epifania-swap-and-style
 title: wap & style banner
 tags:

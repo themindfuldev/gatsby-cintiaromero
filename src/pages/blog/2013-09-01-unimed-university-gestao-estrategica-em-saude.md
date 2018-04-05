@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /unimed-university-gestao-estrategica-em-saude
 title: Gestão Estratégica em Saúde
 tags:

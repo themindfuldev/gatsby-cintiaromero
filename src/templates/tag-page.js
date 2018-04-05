@@ -1,4 +1,5 @@
 import React from 'react';
+import Helmet from 'react-helmet';
 import PropTypes from 'prop-types';
 import Banner from '../components/banner/Banner';
 import InlinePost from '../components/inline-post/InlinePost';
@@ -32,6 +33,7 @@ const Tags = ({ pathContext, data }) => {
 
   return (
     <div>
+      <Helmet title={`Cintia Romero | ${heading.title}`} />
       <Banner title={heading.title} subtitle={heading.subtitle} color={heading.color}/>
       <ul>
         {edges.map(({ node }) => {
@@ -74,7 +76,7 @@ export default Tags;
 export const pageQuery = graphql`
   query TagPage($tag: String) {
     allMarkdownRemark(
-      limit: 2000
+      limit: 50
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { tags: { in: [$tag] } } }
     ) {
@@ -85,6 +87,7 @@ export const pageQuery = graphql`
             title
             path
             description
+            image
           }
         }
       }

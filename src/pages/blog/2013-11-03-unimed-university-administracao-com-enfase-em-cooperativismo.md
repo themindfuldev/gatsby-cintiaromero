@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /unimed-university-administracao-com-enfase-com-cooperativismo
 title: Administração com ênfase em Cooperativismo
 tags:

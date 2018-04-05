@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /regina-salomao-mega-bazar
 title: Mega bazar
 tags:

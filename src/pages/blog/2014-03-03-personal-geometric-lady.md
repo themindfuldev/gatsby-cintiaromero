@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-geometric-lady
 title: Geometric lady
 tags:

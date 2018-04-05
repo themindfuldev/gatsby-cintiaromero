@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /unimed-university-participe-e-concorra-a-uma-tv
 title: Participe e concorra a uma TV
 tags:

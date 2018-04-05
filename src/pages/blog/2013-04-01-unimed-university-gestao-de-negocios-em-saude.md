@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /unimed-university-gestao-de-negocios-em-saude
 title: Gestão de Negócios em Saúde
 tags:

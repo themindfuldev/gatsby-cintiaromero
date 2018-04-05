@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-comfy-website
 title: Comfy's website
 tags:

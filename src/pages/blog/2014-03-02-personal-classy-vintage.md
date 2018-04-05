@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-classy-vintage
 title: Classy vintage
 tags:

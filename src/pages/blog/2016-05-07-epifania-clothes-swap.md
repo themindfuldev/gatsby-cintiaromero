@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /epifania-clothes-swap
 title: Clothes swap banner
 tags:

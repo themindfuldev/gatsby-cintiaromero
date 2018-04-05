@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post-page
 path: /personal-bendito
 title: O Bendito Pão de Queijo website
 tags:
