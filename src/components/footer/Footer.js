@@ -9,7 +9,7 @@ const Footer = () => (
       <div className="level">
         <div className="level-left">
           <div className="level-item">
-            <div>
+            <div className="has-text-centered has-text-left-tablet">
               <p className="is-size-4">CINTIA ROMERO</p>
               <ul className="footer-links is-size-5">
                 <li><Link to="/tags/ux">UX design</Link></li>
