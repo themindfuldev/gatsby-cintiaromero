@@ -10,11 +10,25 @@ description: VeganGuide.Me is a fully-responsive website designed to help saving
 image: https://farm5.staticflickr.com/4240/35831406215_ea92cb8ffb_c.jpg
 ---
 
+### Table of contents
+
+- [Software used](#software-used)
+- [The problem definition](#the-problem-definition)
+- [The user research](#the-user-research)
+- [The design solution](#the-design-solution)
+  - [Persona](#persona)
+  - [The design process](#the-design-process)
+- [The first wireframes](#the-first-wireframes)
+- [The high fidelity designs](#the-high-fidelity-designs)
+- [Related work](#related-work)
+
+<a id="software-used"></a>
 ### Software used
 - Illustrator
 - Photoshop
 - Adobe XD
 
+<a id="the-problem-definition"></a>
 ### The problem definition 
 
 To build a contemporary vegan guide, offering a convenient and easy way to find information about vegan products, with the promise of simplicity. 
@@ -23,7 +37,8 @@ Our first priority is to make it possible for the users to find specific informa
 
 Besides vegan products, VeganGuide.Me will go beyound that and will also include tips and experiences about veganism. 
 
-### The User Research
+<a id="the-user-research"></a>
+### The user research
 
 In order to define the best way to present a vegan guide, me and my partner interviewed different profiles of vegans,  vegetarians and vegan-friendly people, so that we could study our solutions for the vegan guide.
 
@@ -47,7 +62,8 @@ Based on our surveys and interviews, here are the pain points about other vegan 
 
 Understanding people's struggles to find information about vegan products was crucial for us to refine the design solution.
 
-### The Design Solution
+<a id="the-design-solution"></a>
+### The design solution
 
 Concepts to solve the problem: 
 
@@ -56,10 +72,12 @@ Concepts to solve the problem:
 - Direct the user to other respectable vegan websites, giving different alternatives for each subject
 - Social medias profiles included, helping to share information and to build a helpful vegan community
 
+<a id="persona"></a>
 #### Persona
 ![Persona](https://farm5.staticflickr.com/4218/35662538192_c141e98c06_h.jpg)
 
-#### The Design Process
+<a id="the-design-process"></a>
+#### The design process
 
 The main feature of the vegan guide is the search bar. It isn’t a simple bar, but a powerful tool that is simple to use and very fast to find precise information. Inspired by the Yoga Glo APP, Yummly and the customer service page on Walmart.com.br, the results are presented in categories, showing a very organized structure. 
 
@@ -72,6 +90,7 @@ After a few iterations, we decided to start just with the basic categories of ve
 On the image gallery below you can find the initial black & white wireframes, and the final solution which got implemented on the website.
 
 ---
+<a id="the-first-wireframes"></a>
 ### The first wireframes
 
 #### Home page layout
@@ -87,6 +106,7 @@ On the image gallery below you can find the initial black & white wireframes, an
 ![Mobile version layout](https://farm5.staticflickr.com/4212/35831405815_f5508ce80d_h.jpg)
 
 ---
+<a id="the-high-fidelity-designs"></a>
 ### The high-fidelity designs
 
 #### Home page
@@ -104,6 +124,7 @@ On the image gallery below you can find the initial black & white wireframes, an
 #### Mobile Home page
 ![Mobile home page](https://farm5.staticflickr.com/4263/35831409035_a773f4038d_h.jpg)
 
+<a id="related-work"></a>
 ### Related work
 
 - Check out <a href="http://veganguide.me" target="_blank">veganguide.me</a>.
