@@ -1,11 +1,10 @@
 ---
 templateKey: post-page
-path: /freelance-vegan-guide-me-project
-title: VeganGuide.Me project
+path: /vegan-guide-me
+title: VeganGuide.Me
 tags:
   - ux
-  - freelance
-date: 2017-07-09T15:04:10.000Z
+date: 2017-07-09
 description: VeganGuide.Me is a fully-responsive website designed to help saving animals lives through sharing knowledge, tips and guiding your vegan shopping experience, featuring a blazing-fast search bar.
 image: https://farm5.staticflickr.com/4240/35831406215_ea92cb8ffb_c.jpg
 ---
@@ -18,8 +17,8 @@ image: https://farm5.staticflickr.com/4240/35831406215_ea92cb8ffb_c.jpg
 - [The design process](#the-design-process)
 - [The first wireframes](#the-first-wireframes)
 - [The high fidelity designs](#the-high-fidelity-designs)
+- [Working prototype](#working-prototype)
 - [Software used](#software-used)
-- [Related work](#related-work)
 
 <a id="the-problem-definition"></a>
 ### The problem definition 
@@ -28,7 +27,7 @@ To build a contemporary vegan guide, offering a convenient and easy way to find 
 
 Our first priority is to make it possible for the users to find specific information in a easy and very fast way, for multiple platforms.  
 
-Besides vegan products, VeganGuide.Me will go beyound that and will also include tips and experiences about veganism. 
+Besides vegan products, <a href="http://veganguide.me" target="_blank">VeganGuide.Me</a> will go beyound that and will also include tips and experiences about veganism. 
 
 <a id="the-user-research"></a>
 ### The user research
@@ -94,7 +93,7 @@ On the image gallery below you can find the initial black & white wireframes, an
 #### Article page layout
 ![Article page layout](https://farm5.staticflickr.com/4284/35790899176_f6f9cfec2e_h.jpg)
 
-### Mobile version layout
+#### Mobile version layout
 ![Mobile version layout](https://farm5.staticflickr.com/4212/35831405815_f5508ce80d_h.jpg)
 
 ---
@@ -116,14 +115,12 @@ On the image gallery below you can find the initial black & white wireframes, an
 #### Mobile Home page
 ![Mobile home page](https://farm5.staticflickr.com/4263/35831409035_a773f4038d_h.jpg)
 
+<a id="working-prototype"></a>
+### Working prototype
+Check out <a href="http://veganguide.me" target="_blank">VeganGuide.Me</a>.
+
 <a id="software-used"></a>
 ### Software used
 - Illustrator
 - Photoshop
 - Adobe XD
-
-<a id="related-work"></a>
-### Related work
-
-- Check out <a href="http://veganguide.me" target="_blank">veganguide.me</a>.
-- Check out <a href="/freelance-vegan-guide-me-logo">VeganGuide.Me logo</a>.

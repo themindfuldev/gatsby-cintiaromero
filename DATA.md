@@ -40,3 +40,11 @@ Clients:
 - Personal
 - Freelances
 --//--
+
+Visual Design:
+
+- Digital Design
+- Social media
+- Email Marketing
+- Logos
+- Print
