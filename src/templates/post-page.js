@@ -3,7 +3,7 @@ import graphql from 'graphql';
 import Helmet from 'react-helmet';
 import Banner from '../components/banner/Banner';
 import Content, { HTMLContent } from '../components/content/Content';
-import './post.sass';
+import './post-page.sass';
 
 export const PostPageTemplate = ({
   content, contentComponent, description, title, helmet,

@@ -1,2 +1,23 @@
+@import "~bulma/sass/utilities/initial-variables"
+@import "~bulma/sass/utilities/mixins"
+
 .inline-post
-  //height: 200px;
+  margin: 0.75rem 0 !important
+
+  .column
+    padding: 0 !important
+
+  .inline-post-content
+    margin: 3rem    
+
+    .inline-post-learn-more 
+      margin-top: 1.5rem
+
+  +tablet
+    max-height: 350px
+    overflow: hidden
+
+  +mobile 
+    figure.image
+      max-height: 350px
+      overflow: hidden

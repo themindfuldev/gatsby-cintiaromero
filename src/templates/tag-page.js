@@ -3,6 +3,7 @@ import Helmet from 'react-helmet';
 import PropTypes from 'prop-types';
 import Banner from '../components/banner/Banner';
 import InlinePost from '../components/inline-post/InlinePost';
+import './tag-page.sass';
 
 // Components
 import Link from 'gatsby-link';
@@ -35,7 +36,7 @@ const Tags = ({ pathContext, data }) => {
     <div>
       <Helmet title={`Cintia Romero | ${heading.title}`} />
       <Banner title={heading.title} subtitle={heading.subtitle} color={heading.color}/>
-      <ul>
+      <ul className="inline-posts">
         {edges.map(({ node }) => {
           const { path } = node.frontmatter;
           isLeft = !isLeft;

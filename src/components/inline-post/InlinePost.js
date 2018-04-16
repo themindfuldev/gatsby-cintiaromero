@@ -4,11 +4,11 @@ import './inline-post.sass';
 
 const imagePlaceholder = 'https://bulma.io/images/placeholders/1280x960.png';
 
-const InlinePost = ({ isLeft, path, title, description, image = imagePlaceholder}) => {
+const InlinePost = ({ isLeft, path, title, description, image}) => {
   const imageColumn = responsiveClass => (
     <div className={`column ${responsiveClass}`}>
       <figure className="image">
-        <img src={image} alt={title} />
+        <img src={image || imagePlaceholder} alt={title} />
       </figure>
     </div>
   );
@@ -17,11 +17,11 @@ const InlinePost = ({ isLeft, path, title, description, image = imagePlaceholder
     <div className="inline-post columns">
       {isLeft && imageColumn('is-two-fifths is-hidden-mobile')}
       {imageColumn('is-hidden-tablet')}
-      <div className="column">
-        <h2><Link to={path}>{title}</Link></h2>
+      <div className="inline-post-content column">
+        <h2 className="title is-size-4"><Link to={path}>{title}</Link></h2>
         <p>{description}</p>
         <p>
-          <Link to={path} className="button is-medium is-link">LEARN MORE</Link>
+          <Link to={path} className="inline-post-learn-more button is-medium is-link">LEARN MORE</Link>
         </p>
       </div>
       {!isLeft && imageColumn('is-two-fifths is-hidden-mobile')}
