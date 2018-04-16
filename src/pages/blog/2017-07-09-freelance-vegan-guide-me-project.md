@@ -12,21 +12,14 @@ image: https://farm5.staticflickr.com/4240/35831406215_ea92cb8ffb_c.jpg
 
 ### Table of contents
 
-- [Software used](#software-used)
 - [The problem definition](#the-problem-definition)
 - [The user research](#the-user-research)
 - [The design solution](#the-design-solution)
-  - [Persona](#persona)
-  - [The design process](#the-design-process)
+- [The design process](#the-design-process)
 - [The first wireframes](#the-first-wireframes)
 - [The high fidelity designs](#the-high-fidelity-designs)
+- [Software used](#software-used)
 - [Related work](#related-work)
-
-<a id="software-used"></a>
-### Software used
-- Illustrator
-- Photoshop
-- Adobe XD
 
 <a id="the-problem-definition"></a>
 ### The problem definition 
@@ -72,12 +65,11 @@ Concepts to solve the problem:
 - Direct the user to other respectable vegan websites, giving different alternatives for each subject
 - Social medias profiles included, helping to share information and to build a helpful vegan community
 
-<a id="persona"></a>
 #### Persona
 ![Persona](https://farm5.staticflickr.com/4218/35662538192_c141e98c06_h.jpg)
 
 <a id="the-design-process"></a>
-#### The design process
+### The design process
 
 The main feature of the vegan guide is the search bar. It isn’t a simple bar, but a powerful tool that is simple to use and very fast to find precise information. Inspired by the Yoga Glo APP, Yummly and the customer service page on Walmart.com.br, the results are presented in categories, showing a very organized structure. 
 
@@ -123,6 +115,12 @@ On the image gallery below you can find the initial black & white wireframes, an
 
 #### Mobile Home page
 ![Mobile home page](https://farm5.staticflickr.com/4263/35831409035_a773f4038d_h.jpg)
+
+<a id="software-used"></a>
+### Software used
+- Illustrator
+- Photoshop
+- Adobe XD
 
 <a id="related-work"></a>
 ### Related work

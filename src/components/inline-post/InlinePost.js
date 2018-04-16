@@ -8,7 +8,7 @@ const InlinePost = ({ isLeft, path, title, description, image}) => {
   const imageColumn = responsiveClass => (
     <div className={`column ${responsiveClass}`}>
       <figure className="image">
-        <img src={image || imagePlaceholder} alt={title} />
+        <Link to={path}><img src={image || imagePlaceholder} alt={title} /></Link>
       </figure>
     </div>
   );
