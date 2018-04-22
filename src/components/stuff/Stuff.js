@@ -1,6 +1,9 @@
 import React from 'react';
 import Link from 'gatsby-link';
 import './stuff.sass';
+import ux from './ux.jpg';
+import visual from './visual.jpg';
+import illustrations from './illustrations.jpg';
 
 const Stuff = () => (
   <section className="stuff-hero hero">
@@ -15,7 +18,7 @@ const Stuff = () => (
               <div className="card">
                 <div className="card-image">
                   <figure className="stuff-image image is-square">
-                    <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" />
+                    <img src={ux} alt="Placeholder image" />
                     <figcaption className="has-text-white has-text-centered is-size-4">UX DESIGN</figcaption>
                   </figure>
                 </div>              
@@ -26,18 +29,18 @@ const Stuff = () => (
             <Link to="/tags/visual-design">
               <div className="card-image">
                 <figure className="stuff-image image is-square">
-                  <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" />
+                  <img src={visual} alt="Placeholder image" />
                   <figcaption className="has-text-white has-text-centered is-size-4">VISUAL DESIGN</figcaption>
                 </figure>
               </div> 
             </Link>
           </div>
           <div className="column">
-            <Link to="/tags/illustrations">
+            <Link to="/illustrations">
               <div className="card-image">
                 <figure className="stuff-image image is-square">
-                  <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" />
-                  <figcaption className="has-text-white has-text-centered is-size-4">ILLUSTRATION</figcaption>
+                  <img src={illustrations} alt="Placeholder image" />
+                  <figcaption className="has-text-white has-text-centered is-size-4">ILLUSTRATIONS</figcaption>
                 </figure>
               </div> 
             </Link>
