@@ -1,17 +1,21 @@
+@import "~bulma/sass/utilities/initial-variables"
 @import "~bulma/sass/utilities/mixins"
 
-ul.footer-links 
-  list-style-type: none
-  margin-left: 0
+footer.footer
+  background-color: hsl(0, 0%, 92%)
 
-  +tablet 
-    li 
-      display: inline
-      white-space: nowrap
+  ul.footer-links 
+    list-style-type: none
+    margin-left: 0
 
-      &::after
-        content: "•"
-        padding: 0 0.75rem
+    +tablet 
+      li 
+        display: inline
+        white-space: nowrap
 
-      &:last-child::after
-        content: ""      
+        &::after
+          content: "•"
+          padding: 0 0.75rem
+
+        &:last-child::after
+          content: ""      

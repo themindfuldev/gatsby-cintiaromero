@@ -14,7 +14,7 @@ const InlinePost = ({ isLeft, path, title, description, image}) => {
   );
   
   return (
-    <div className="inline-post columns">
+    <div className={`inline-post columns ${isLeft? 'left': 'right'}`}>
       {isLeft && imageColumn('is-two-fifths is-hidden-mobile')}
       {imageColumn('is-hidden-tablet')}
       <div className="inline-post-content column">
