@@ -10,11 +10,12 @@ const Footer = () => (
         <div className="level-left">
           <div className="level-item">
             <div className="has-text-centered has-text-left-tablet">
-              <p className="is-size-4">CINTIA ROMERO</p>
+              <p className="is-size-4"><Link to="/">CINTIA ROMERO</Link></p>
               <ul className="footer-links is-size-5">
                 <li><Link to="/tags/ux">UX design</Link></li>
                 <li><Link to="/tags/visual-design">Visual design</Link></li>
                 <li><Link to="/illustrations">Illustrations</Link></li>
+                <li><Link to="/contact">Contact</Link></li>
               </ul>
               <br/>
               <p>© 2018 Cintia Romero. Powered by <a href="https://www.gatsbyjs.org/" target="_blank" rel="noopener noreferrer">Gatsby</a>.</p>

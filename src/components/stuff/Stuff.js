@@ -9,8 +9,8 @@ const Stuff = () => (
   <section className="stuff-hero hero">
     <div className="hero-body">
       <div className="container">
-        <h2 className="title is-2 has-text-centered">Here’s all the stuff I do.</h2>
-        <h3 className="subtitle is-4 has-text-centered">Odio turpis amet sed consequat eget posuere consequat.</h3>
+        <h2 className="title is-2 has-text-centered">Here’s all the stuff I do</h2>
+        <h3 className="subtitle is-4 has-text-centered">I deliver elegant and functional digital experiences</h3>
         <br/>
         <div className="columns">
           <div className="column">

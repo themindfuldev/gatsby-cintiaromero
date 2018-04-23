@@ -41,9 +41,6 @@ export default ({ data }) => {
   const { markdownRemark: post } = data;
   const { title, subtitle, description, tags } = post.frontmatter;
 
-  console.log(post.frontmatter)
-
-
   return (<PostPageTemplate
     content={post.html}
     contentComponent={HTMLContent}

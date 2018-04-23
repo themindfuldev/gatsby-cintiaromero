@@ -47,6 +47,9 @@ class Header extends React.Component {
             <Link className={getSelectedClass('/illustrations')} to="/illustrations">
               Illustrations
             </Link>
+            <Link className={getSelectedClass('/contact')} to="/contact">
+              Contact
+            </Link>
           </div>
         </div>
       </nav>

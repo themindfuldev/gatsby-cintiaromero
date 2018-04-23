@@ -10,6 +10,8 @@ export const headings = {
     color: 'is-primary'
   },
   'illustrations': {
+    title: 'Illustrations',
+    subtitle: 'Odio turpis amet sed consequat eget posuere consequat.',
     color: 'is-warning'
   }
 };
