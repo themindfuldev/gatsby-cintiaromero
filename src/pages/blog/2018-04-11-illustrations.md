@@ -2,6 +2,9 @@
 templateKey: post-page
 path: /illustrations
 title: Illustrations
+subtitle: Odio turpis amet sed consequat eget posuere consequat
+tags:
+  - illustrations
 date: 2018-04-11
 description: Illustrations description here
 image: https://farm5.staticflickr.com/4233/35810871066_2c78fc5eba_h.jpg

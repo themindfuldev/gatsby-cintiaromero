@@ -3,28 +3,9 @@ import Helmet from 'react-helmet';
 import PropTypes from 'prop-types';
 import Banner from '../components/banner/Banner';
 import InlinePost from '../components/inline-post/InlinePost';
-import './tag-page.sass';
-
-// Components
+import { headings } from '../utils/headings';
 import Link from 'gatsby-link';
-
-const headings = {
-  'ux': {
-    title: 'UX',
-    subtitle: 'Odio turpis amet sed consequat eget posuere consequat.',
-    color: 'is-info'
-  },
-  'visual-design': {
-    title: 'Visual Design',
-    subtitle: 'Odio turpis amet sed consequat eget posuere consequat.',
-    color: 'is-primary'
-  },
-  'illustrations': {
-    title: 'Illustrations',
-    subtitle: 'Odio turpis amet sed consequat eget posuere consequat.',
-    color: 'is-warning'
-  }
-}
+import './tag-page.sass';
 
 const Tags = ({ pathContext, data }) => {
   const { tag } = pathContext;

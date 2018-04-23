@@ -3,17 +3,22 @@ import graphql from 'graphql';
 import Helmet from 'react-helmet';
 import Banner from '../components/banner/Banner';
 import Content, { HTMLContent } from '../components/content/Content';
+import { headings } from '../utils/headings';
 import './post-page.sass';
 
 export const PostPageTemplate = ({
-  content, contentComponent, description, title, helmet,
+  content, contentComponent, helmet, title, subtitle, description, tags
 }) => {
   const PostContent = contentComponent || Content;
+  const tag = tags[0];
+  const heading = headings[tag] || {};
+
+  console.log(`subtitle=${subtitle}`)
 
   return (
     <div>
       { helmet || ''}
-      <Banner title={title} color='is-info' />
+      <Banner title={title} subtitle={subtitle} color={heading.color} />
       <section className="section">
         <div className="container content">
           <div className="columns">
@@ -34,14 +39,19 @@ export const PostPageTemplate = ({
 
 export default ({ data }) => {
   const { markdownRemark: post } = data;
-  const { title, description } = post.frontmatter;
+  const { title, subtitle, description, tags } = post.frontmatter;
+
+  console.log(post.frontmatter)
+
 
   return (<PostPageTemplate
     content={post.html}
     contentComponent={HTMLContent}
-    description={description}
     helmet={<Helmet title={`Cintia Romero | ${title}`} />}
     title={title}
+    subtitle={subtitle}
+    description={description}
+    tags={tags}
   />);
 };
 
@@ -53,7 +63,9 @@ export const pageQuery = graphql`
         path
         date(formatString: "MMMM DD, YYYY")
         title
+        subtitle
         description
+        tags
       }
     }
   }
