@@ -6,7 +6,7 @@ tags:
   - ux
 date: 2017-07-09
 description: VeganGuide.Me is a fully-responsive website designed to help saving animals lives through sharing knowledge, tips and guiding your vegan shopping experience, featuring a blazing-fast search bar.
-image: https://farm5.staticflickr.com/4240/35831406215_ea92cb8ffb_c.jpg
+image: /img/ux-vegan-guide.jpg
 ---
 
 ### Table of contents

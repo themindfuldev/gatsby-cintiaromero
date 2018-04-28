@@ -6,7 +6,7 @@ tags:
   - visual-design
 date: 2018-04-13
 description: Social media description here
-image: https://farm8.staticflickr.com/7507/26778621212_8c90c6231c_c.jpg
+image: /img/vd-social-media.jpg
 ---
 
 #### Semana off
