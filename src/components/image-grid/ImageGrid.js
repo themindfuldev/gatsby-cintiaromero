@@ -11,7 +11,7 @@ const ImageGrid = ({images}) => {
   const html = parser.parseFromString(images.replace(/\n/g, ''), 'text/html');
   const lis = Array.from(html.getElementsByTagName('li'));
   return (
-    <div>
+    <div className="image-grid-container">
       {lis
         .reduce((acc, el) => {
           if (acc.length === 0 || acc[acc.length-1].length === 3) {
@@ -21,17 +21,17 @@ const ImageGrid = ({images}) => {
           }
           return acc;
         }, [])
-        .map(row => (
-        <div className="tile is-ancestor">
-          {row.map(li => 
-            <div className="tile is-parent">
-              <article className="tile is-child box" dangerouslySetInnerHTML={{
-                __html: li.innerHTML
-              }} />
-            </div>
-          )}                  
-        </div>
-      ))}
+        .map((row, rowIndex) => (
+          <div className="tile is-ancestor image-grid-row" key={`row-${rowIndex}`}>
+            {row.map((li, cellIndex) => 
+              <div className="tile is-parent image-grid-cell" key={`cell-${cellIndex}`}>
+                <article className="tile is-child box is-radiusless" dangerouslySetInnerHTML={{
+                  __html: li.innerHTML
+                }} />
+              </div>
+            )}                  
+          </div>
+        ))}
     </div>
   );
 };
