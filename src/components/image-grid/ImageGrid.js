@@ -1,12 +1,15 @@
 import React from 'react';
 import Link from 'gatsby-link';
 import './image-grid.sass';
+import NodeDOMParser from 'dom-parser';
 
-const domParser = window.DOMParser && new window.DOMParser();
+const domParser = global.DOMParser? global.DOMParser: NodeDOMParser;
+
+const parser = new domParser();
 
 const ImageGrid = ({images}) => {
-  const html = domParser.parseFromString(images.replace(/\n/g, ''), 'text/html');
-  const lis = Array.from(html.querySelectorAll('li'));
+  const html = parser.parseFromString(images.replace(/\n/g, ''), 'text/html');
+  const lis = Array.from(html.getElementsByTagName('li'));
   return (
     <div>
       {lis
