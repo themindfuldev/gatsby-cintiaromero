@@ -2,6 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import PropTypes from 'prop-types';
 import Banner from '../components/banner/Banner';
+import ImageGrid from '../components/image-grid/ImageGrid';
 import InlinePost from '../components/inline-post/InlinePost';
 import { headings } from '../utils/headings';
 import Link from 'gatsby-link';
@@ -12,22 +13,29 @@ const Tags = ({ pathContext, data }) => {
   const { edges, totalCount } = data.allMarkdownRemark;
   const heading = headings[tag] || {};
   let isLeft = false;
+  const isImageGrid = edges[0] && edges[0].node.frontmatter.isImageGrid;
 
   return (
     <div>
       <Helmet title={`Cintia Romero | ${heading.title}`} />
       <Banner title={heading.title} subtitle={heading.subtitle} color={heading.color}/>
-      <ul className="inline-posts">
-        {edges.map(({ node }) => {
-          const { path } = node.frontmatter;
-          isLeft = !isLeft;
-          return (
-            <li key={path}>              
-              <InlinePost isLeft={isLeft} {...node.frontmatter} />
-            </li>
-          );
-        })}
-      </ul>      
+
+      {isImageGrid && 
+        <ImageGrid images={edges[0].node.html} />
+      }
+      {!isImageGrid &&
+        <ul className="inline-posts">
+          {edges.map(({ node }) => {
+            const { path } = node.frontmatter;
+            isLeft = !isLeft;
+            return (
+              <li key={path}>
+                <InlinePost isLeft={isLeft} {...node.frontmatter} />
+              </li>
+            );
+          })}
+        </ul> 
+      }
     </div>
   );
 };
@@ -65,11 +73,13 @@ export const pageQuery = graphql`
       totalCount
       edges {
         node {
+          html
           frontmatter {
             title
             path
             description
             image
+            isImageGrid           
           }
         }
       }

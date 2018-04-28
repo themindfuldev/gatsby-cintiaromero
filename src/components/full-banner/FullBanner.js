@@ -13,7 +13,7 @@ const FullBanner = () => (
 					<img src={logo} alt="Logo" />
 				</div>
 				<h1 className="full-banner-title title is-spaced">
-					Hi, I'm Cintia Romero.
+					Hi, I'm Cintia Romero
 				</h1>
 				<h2 className="subtitle is-size-4">
 					I design and develop experiences that make people's life simpler.

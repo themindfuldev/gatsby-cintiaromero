@@ -13,8 +13,6 @@ export const PostPageTemplate = ({
   const tag = tags[0];
   const heading = headings[tag] || {};
 
-  console.log(`subtitle=${subtitle}`)
-
   return (
     <div>
       { helmet || ''}
@@ -24,9 +22,11 @@ export const PostPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <article className="message">
-                <div className="message-body">
-                  {description}
-                </div>
+                {description &&
+                  <div className="message-body">
+                    {description}
+                  </div>
+                }
               </article>
               <PostContent content={content} className="post" />
             </div>

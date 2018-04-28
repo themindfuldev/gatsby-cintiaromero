@@ -14,7 +14,7 @@ const Footer = () => (
               <ul className="footer-links is-size-5">
                 <li><Link to="/tags/ux">UX design</Link></li>
                 <li><Link to="/tags/visual-design">Visual design</Link></li>
-                <li><Link to="/illustrations">Illustrations</Link></li>
+                <li><Link to="/tags/illustrations">Illustrations</Link></li>
                 <li><Link to="/contact">Contact</Link></li>
               </ul>
               <br/>

@@ -5,7 +5,7 @@ title: Social media
 tags:
   - visual-design
 date: 2018-04-13
-description: Social media description here
+description: Diving into the social game, helping brands to go out, speak their voice, creating a solid online reputation, playing with my design and digital marketing skills. 
 image: /img/vd-social-media.jpg
 ---
 

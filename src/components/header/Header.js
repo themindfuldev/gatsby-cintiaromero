@@ -44,7 +44,7 @@ class Header extends React.Component {
             <Link className={getSelectedClass('/tags/visual-design')} to="/tags/visual-design">
               Visual Design
             </Link>
-            <Link className={getSelectedClass('/illustrations')} to="/illustrations">
+            <Link className={getSelectedClass('/tags/illustrations')} to="/tags/illustrations">
               Illustrations
             </Link>
             <Link className={getSelectedClass('/contact')} to="/contact">
