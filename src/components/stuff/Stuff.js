@@ -27,22 +27,26 @@ const Stuff = () => (
           </div>
           <div className="column">
             <Link to="/tags/visual-design">
-              <div className="card-image">
-                <figure className="stuff-image image is-square">
-                  <img src={visual} alt="Placeholder image" />
-                  <figcaption className="has-text-white has-text-centered is-size-4">VISUAL DESIGN</figcaption>
-                </figure>
-              </div> 
+              <div className="card">
+                <div className="card-image">
+                  <figure className="stuff-image image is-square">
+                    <img src={visual} alt="Placeholder image" />
+                    <figcaption className="has-text-white has-text-centered is-size-4">VISUAL DESIGN</figcaption>
+                  </figure>
+                </div>
+              </div>
             </Link>
           </div>
           <div className="column">
             <Link to="/illustrations">
-              <div className="card-image">
-                <figure className="stuff-image image is-square">
-                  <img src={illustrations} alt="Placeholder image" />
-                  <figcaption className="has-text-white has-text-centered is-size-4">ILLUSTRATIONS</figcaption>
-                </figure>
-              </div> 
+              <div className="card">
+                <div className="card-image">
+                  <figure className="stuff-image image is-square">
+                    <img src={illustrations} alt="Placeholder image" />
+                    <figcaption className="has-text-white has-text-centered is-size-4">ILLUSTRATIONS</figcaption>
+                  </figure>
+                </div> 
+              </div>
             </Link>
           </div>
         </div>

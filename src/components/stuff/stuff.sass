@@ -3,13 +3,24 @@
 .stuff-hero
   padding: 3rem 0
 
-  .stuff-image
-    position: relative
+  .card
+    box-shadow: none
+    overflow: hidden
 
-    figcaption
-      position: absolute
-      top: 50%
-      transform: translateY(-50%)
-      width: 100%
-      background: $black
-      padding: 0.5rem
+    .stuff-image
+      position: relative
+
+      img
+        transition: all 0.2s linear
+      
+      &:hover
+        img
+          transform: scale(1.2)
+
+      figcaption
+        position: absolute
+        top: 50%
+        transform: translateY(-50%)
+        width: 100%
+        background: $black
+        padding: 0.5rem
