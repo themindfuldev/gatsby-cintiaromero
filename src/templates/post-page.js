@@ -28,6 +28,15 @@ export const PostPageTemplate = ({
                   </div>
                 }
               </article>
+            </div>
+          </div>
+        </div>
+      </section>
+      <img src="/img/ux-vegan-guide.jpg" className="wide-image" alt="VeganGuide.Me"/>
+      <section className="section">
+        <div className="container content">
+          <div className="columns">
+            <div className="column is-10 is-offset-1">
               <PostContent content={content} className="post" />
             </div>
           </div>
