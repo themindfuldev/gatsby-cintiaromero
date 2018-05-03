@@ -9,7 +9,7 @@ description: VeganGuide.Me is a fully-responsive website designed to help saving
 image: /img/ux-vegan-guide.jpg
 ---
 
-### Table of contents
+## Table of contents
 
 - [The problem definition](#the-problem-definition)
 - [The user research](#the-user-research)
@@ -25,16 +25,16 @@ image: /img/ux-vegan-guide.jpg
 ![VeganGuide.Me](/img/ux-vegan-guide-large.png)
 
 <a id="the-problem-definition"></a>
-### The problem definition 
+## The problem definition 
 
 To build a contemporary vegan guide, offering a convenient and easy way to find information about vegan products, with the promise of simplicity. 
 
 Our first priority is to make it possible for the users to find specific information in a easy and very fast way, for multiple platforms.  
 
-Besides vegan products, <a href="http://veganguide.me" target="_blank">VeganGuide.Me</a> will go beyound that and will also include tips and experiences about veganism. 
+Besides vegan products, <a href="http://veganguide.me" target="_blank">VeganGuide.Me</a> will go beyond that and will also include tips and experiences about veganism. 
 
 <a id="the-user-research"></a>
-### The user research
+## The user research
 
 In order to define the best way to present a vegan guide, me and my partner interviewed different profiles of vegans,  vegetarians and vegan-friendly people, so that we could study our solutions for the vegan guide.
 
@@ -59,7 +59,7 @@ Based on our surveys and interviews, here are the pain points about other vegan 
 Understanding people's struggles to find information about vegan products was crucial for us to refine the design solution.
 
 <a id="the-design-solution"></a>
-### The design solution
+## The design solution
 
 Concepts to solve the problem: 
 
@@ -68,11 +68,11 @@ Concepts to solve the problem:
 - Direct the user to other respectable vegan websites, giving different alternatives for each subject
 - Social medias profiles included, helping to share information and to build a helpful vegan community
 
-#### Persona
+### Persona
 ![Persona](https://farm5.staticflickr.com/4218/35662538192_c141e98c06_h.jpg)
 
 <a id="the-design-process"></a>
-### The design process
+## The design process
 
 The main feature of the vegan guide is the search bar. It isn’t a simple bar, but a powerful tool that is simple to use and very fast to find precise information. Inspired by the Yoga Glo APP, Yummly and the customer service page on Walmart.com.br, the results are presented in categories, showing a very organized structure. 
 
@@ -84,47 +84,42 @@ After a few iterations, we decided to start just with the basic categories of ve
 
 On the image gallery below you can find the initial black & white wireframes, and the final solution which got implemented on the website.
 
----
 <a id="the-first-wireframes"></a>
-### The first wireframes
+## The first wireframes
 
-#### Home page layout
+### Home page layout
 ![Home page layout](https://farm5.staticflickr.com/4240/35831406215_ea92cb8ffb_h.jpg)
 
-#### Category page layout
-![Category page layout](https://farm5.staticflickr.com/4280/35790899346_6e886d541d_h.jpg)
-
-#### Article page layout
+### Article page layout
 ![Article page layout](https://farm5.staticflickr.com/4284/35790899176_f6f9cfec2e_h.jpg)
 
-#### Mobile version layout
+### Mobile version layout
 ![Mobile version layout](https://farm5.staticflickr.com/4212/35831405815_f5508ce80d_h.jpg)
 
----
 <a id="the-high-fidelity-designs"></a>
-### The high-fidelity designs
+## The high-fidelity designs
 
-#### Home page
+### Home page
 ![Home page](https://farm5.staticflickr.com/4257/35790900796_b546d7afea_h.jpg)
 
-#### Category page
+### Category page
 ![Category page](https://farm5.staticflickr.com/4288/35790900606_26b166c131_h.jpg)
 
-#### Article page
+### Article page
 ![Article page](https://farm5.staticflickr.com/4231/35790900996_c67d23efae_h.jpg)
 
-#### Search results page
+### Search results page
 ![Search results page](https://farm5.staticflickr.com/4277/35831408195_5ebc5d77ca_h.jpg)
 
-#### Mobile Home page
+### Mobile Home page
 ![Mobile home page](https://farm5.staticflickr.com/4263/35831409035_a773f4038d_h.jpg)
 
 <a id="working-prototype"></a>
-### Working prototype
+## Working prototype
 Check out <a href="http://veganguide.me" target="_blank">VeganGuide.Me</a>.
 
 <a id="software-used"></a>
-### Software used
+## Software used
 - Illustrator
 - Photoshop
 - Adobe XD

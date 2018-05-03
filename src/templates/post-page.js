@@ -1,6 +1,7 @@
 import React from 'react';
 import graphql from 'graphql';
 import Helmet from 'react-helmet';
+import Link from 'gatsby-link';
 import Banner from '../components/banner/Banner';
 import Content, { HTMLContent } from '../components/content/Content';
 import { headings } from '../utils/headings';
@@ -21,13 +22,21 @@ export const PostPageTemplate = ({
         <div className="container content">
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <article className="message">
                 {description &&
-                  <div className="message-body">
-                    {description}
-                  </div>
+                  <React.Fragment>
+                    <nav className="breadcrumb" aria-label="breadcrumbs">
+                      <ul>
+                        <li><Link to={`/tags/${tag}`}>{heading.title}</Link></li>
+                        <li className="is-active"><a aria-current="page">{title}</a></li>
+                      </ul>
+                    </nav>
+                    <article className="message">
+                      <div className="message-body">
+                        {description}
+                      </div>
+                    </article>
+                  </React.Fragment>
                 }
-              </article>
               <PostContent content={content} className="post" />
             </div>
           </div>
