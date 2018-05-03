@@ -18,7 +18,7 @@ const InlinePost = ({ isLeft, path, title, description, image}) => {
       {isLeft && imageColumn('is-two-fifths is-hidden-mobile')}
       {imageColumn('is-hidden-tablet')}
       <div className="inline-post-content column">
-        <h2 className="title is-size-4"><Link to={path}>{title}</Link></h2>
+        <h2 className="title is-size-3"><Link to={path}>{title}</Link></h2>
         <p>{description}</p>
         <p>
           <Link to={path} className="inline-post-learn-more button is-medium is-link">LEARN MORE</Link>

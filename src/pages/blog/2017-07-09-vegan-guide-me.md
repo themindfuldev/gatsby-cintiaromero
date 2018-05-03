@@ -15,8 +15,8 @@ image: /img/ux-vegan-guide.jpg
 - [The user research](#the-user-research)
 - [The design solution](#the-design-solution)
 - [The design process](#the-design-process)
-- [The first wireframes](#the-first-wireframes)
-- [The high fidelity designs](#the-high-fidelity-designs)
+- [The low-fidelity wireframes](#the-low-fidelity-wireframes)
+- [The high-fidelity designs](#the-high-fidelity-designs)
 - [Working prototype](#working-prototype)
 - [Software used](#software-used)
 
@@ -84,8 +84,8 @@ After a few iterations, we decided to start just with the basic categories of ve
 
 On the image gallery below you can find the initial black & white wireframes, and the final solution which got implemented on the website.
 
-<a id="the-first-wireframes"></a>
-## The first wireframes
+<a id="the-low-fidelity-wireframes"></a>
+## The low-fidelity wireframes
 
 ### Home page layout
 ![Home page layout](https://farm5.staticflickr.com/4240/35831406215_ea92cb8ffb_h.jpg)
