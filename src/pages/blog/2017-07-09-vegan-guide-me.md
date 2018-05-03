@@ -20,6 +20,10 @@ image: /img/ux-vegan-guide.jpg
 - [Working prototype](#working-prototype)
 - [Software used](#software-used)
 
+<br/>
+
+![VeganGuide.Me](/img/ux-vegan-guide-large.png)
+
 <a id="the-problem-definition"></a>
 ### The problem definition 
 
