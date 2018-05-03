@@ -9,19 +9,19 @@ description: Diving into the social game, helping brands to go out, speak their 
 image: /img/vd-social-media.jpg
 ---
 
-#### Semana off
+### Semana off
 
 This design is for a sales marketing campaign for Regina Salomão.
 
 ![Semana off](https://farm1.staticflickr.com/696/20860242794_23bb9c7c13_h.jpg)
 
-#### Clothes swap banner
+### Clothes swap banner
 
 This banner was created for a Facebook and Eventbrite event page for a fun clothes swap by Epifania Magazine.
 
 ![Clothes swap banner](https://farm8.staticflickr.com/7507/26778621212_8c90c6231c_h.jpg)
 
-#### Mega bazar
+### Mega bazar
 
 This design is for a sales marketing campaign for Regina Salomão.
 
