@@ -9,6 +9,7 @@ description: Diving into the social game, helping brands to go out, speak their 
 image: /img/vd-social-media.jpg
 ---
 
+<a id="table-of-contents"></a>
 ### You + me = awesome
 
 ![You + me = awesome](/img/vd-social-media-1.jpg)
@@ -76,3 +77,5 @@ image: /img/vd-social-media.jpg
 ### Mega bazar
 
 ![Mega bazar](https://farm1.staticflickr.com/708/21296049659_02b6db1661_h.jpg)
+
+<a href="#table-of-contents"><i class="far fa-arrow-alt-circle-up fa-lg"></i> Back to top</a>
