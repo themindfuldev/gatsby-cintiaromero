@@ -1,0 +1,110 @@
+---
+templateKey: post-page
+path: /artemia-website
+title: Artemia website
+tags:
+  - ux
+date: 2017-10-05
+description: I worked on a complete redesign for Artemia website, making it responsive, elegant, modern and easier to navigate. 
+image: /img/ux-artemia.jpg
+---
+
+## Table of contents
+
+- [The problem definition](#the-problem-definition)
+- [The user research](#the-user-research)
+- [The design solution](#the-design-solution)
+- [The design process](#the-design-process)
+- [The current website](#the-current-website)
+- [The proposal](#the-proposal)
+- [Reflection](#reflection)
+
+<br/>
+
+![Artemia website](/img/ux-artemia-large.jpg)
+
+<a id="the-problem-definition"></a>
+## The problem definition 
+
+**Dealing with digital agencies should be simple, pleasant and innovative. How to demonstrate that, showing its identity in a better way?**
+
+The foundation for this project is based in user researches and case studies.
+
+My first priority was to make Artemia's website responsive, elegant and more interesting.
+
+<a id="the-user-research"></a>
+## The user research
+
+**Real clients and potential clients.**
+
+I started with a survey and applied it to 13 people (including current clients, employees, and potential clients).
+
+Goal: to discover the struggles while accessing Artemia’s website and the expectations they have when navigating through it. 
+
+Here are the main topics I got from the survey: 
+
+**A) Not a mobile-friendly website**
+
+91% of the interviewed got frustrated about not having a mobile-friendly website.
+
+**B) Old-school visual**
+
+95% of the interviewed didn't like the current design of the website. 
+
+**C) Disorganized structure**
+
+87% of the users had struggles trying to find information about the company. 
+
+<a id="the-design-solution"></a>
+## The design solution
+
+**A responsive and clean website, offering an innovative and elegant concept, matching with the agency identity (located in a heart of a high-tech city).**
+
+<a id="the-design-process"></a>
+## The design process
+
+- **Content**: Working with the team, dividing the website by content, making it easier to navigate and to find topics. 
+- **Creating a new layout**: Showing an innovative design, responsive, clean and elegant. Ideal to access in multiple platforms.
+
+<a id="the-current-website"></a>
+## The current website
+
+### Home page
+![Home page](/img/ux-artemia-current-hp.jpg)
+
+### Who we are
+![Who we are](/img/ux-artemia-current-who-we-are.jpg)
+
+### Case studies
+![Case studies](/img/ux-artemia-current-case-studies.jpg)
+
+### Creative services
+![Creative services](/img/ux-artemia-current-creative-services.jpg)
+
+### Locations
+![Locations](/img/ux-artemia-current-locations.jpg)
+
+<a id="the-proposal"></a>
+## The proposal
+
+### Home page
+![Home page](/img/ux-artemia-proposal-hp.jpg)
+
+### Our services
+![Our services](/img/ux-artemia-proposal-our-services.jpg)
+
+### Find us here
+![Find us here](/img/ux-artemia-proposal-find-us-here.jpg)
+
+### Contact us
+![Contact us](/img/ux-artemia-proposal-contact-us.png)
+
+### Blog
+![Blog](/img/ux-artemia-proposal-blog.jpg)
+
+<a id="reflection"></a>
+## Reflection 
+
+A responsive website layout is a must-have for a digital service agency. Up-to-date is the key to show an agency located in the heart of a high-tech city.
+
+The proposal of Artemia’s new website was fun to create, but for the future I would love to go deeper, creating a working prototype and applying A/B tests. 
