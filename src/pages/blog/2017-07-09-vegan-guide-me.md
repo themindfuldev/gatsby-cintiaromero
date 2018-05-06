@@ -5,7 +5,7 @@ title: VeganGuide.Me
 tags:
   - ux
 date: 2017-07-09
-description: VeganGuide.Me is a fully-responsive website designed to help saving animals lives through sharing knowledge, tips and guiding your vegan shopping experience, featuring a blazing-fast search bar.
+description: VeganGuide.Me is a fully-responsive website designed to help saving animals lives through sharing knowledge and tips and guiding your vegan shopping experience, powered by a blazing-fast search bar.
 image: /img/ux-vegan-guide.jpg
 ---
 
@@ -18,55 +18,61 @@ image: /img/ux-vegan-guide.jpg
 - [The low-fidelity wireframes](#the-low-fidelity-wireframes)
 - [The high-fidelity designs](#the-high-fidelity-designs)
 - [Working prototype](#working-prototype)
-- [Software used](#software-used)
+- [Reflection](#reflection)
 
 <br/>
 
-![VeganGuide.Me](/img/ux-vegan-guide-large.png)
+![VeganGuide.Me](/img/ux-vegan-guide-large.jpg)
 
 <a id="the-problem-definition"></a>
 ## The problem definition 
 
-To build a contemporary vegan guide, offering a convenient and easy way to find information about vegan products, with the promise of simplicity. 
+**Searching for vegan products is tricky, because we don’t have all the resources available in only one place. People usually spend a lot of time to find the right product and information about it. How to keep it all together and make the search easier?**
 
-Our first priority is to make it possible for the users to find specific information in a easy and very fast way, for multiple platforms.  
+The foundation for this project is based on a research focused in vegans' behavior as well as how to facilitate their searching and shopping experience. 
 
-Besides vegan products, <a href="http://veganguide.me" target="_blank">VeganGuide.Me</a> will go beyond that and will also include tips and experiences about veganism. 
+Our first priority was to make it possible for the users to find specific information in a easy and very fast way, for multiple platforms. 
 
 <a id="the-user-research"></a>
 ## The user research
 
-In order to define the best way to present a vegan guide, me and my partner interviewed different profiles of vegans,  vegetarians and vegan-friendly people, so that we could study our solutions for the vegan guide.
+**Talking to real people and finding out patterns related to search behavior is the key.**
 
-Among all the great feedback we got, here are some interesting comments from our users:
+Me and my partner started with surveys and interviews, and we gathered 13 different profiles (of vegans, vegetarians and vegan-friendly people), to talk about vegan searching and shopping experience. 
 
-- *“I'd like something that was easy to use and clear. Sometimes I encounter confusion about whether something is actually vegan.”* - User research 
-- *"A comprehensive guide that covers recommendations for vegan food, clothing, and products, would be amazing.”* - User research
-- *“I would love a feature showing results for all categories and showing the history of the company, product and all certifications.”* - User research
+Among all the great feedback we got, here are some interesting comments:
 
-We found out through user research that 51% of the users use a laptop of find information about vegan products, 43% use a smartphone and 6% use tablets and other platforms.
+- *“I'd like something that was easy to use and clear. Sometimes I encounter confusion about whether something is actually vegan.”*  
+- *"A comprehensive guide that covers recommendations for vegan food, clothing, and products, would be amazing.”* 
+- *“I would love a feature showing results for all categories and showing the history of the company, product and all certifications.”* 
+
+We found out through user research that 51% of the users use a laptop of find information about vegan products, while 43% use a smartphone and 6% use tablets or other platforms.
   
 It turned out that a responsive website is the best way to present our vegan guide, with a strong focus on the mobile concept.  
 
-Based on our surveys and interviews, here are the pain points about other vegan guides:
+Based on our study, here are some pain points about other vegan guides:
 
-- Inaccurate information
+- Inaccurate/outdated information
 - Difficulty to find information about brands and ingredients
-- Outdated information and confusion between products not tested on animals versus vegan products
+- Confusion between products not tested on animals versus vegan products
 - Poor UI 
-- Missing interaction with others vegan people
+- Missing interaction with other vegan-friendly people
 
 Understanding people's struggles to find information about vegan products was crucial for us to refine the design solution.
 
 <a id="the-design-solution"></a>
 ## The design solution
 
-Concepts to solve the problem: 
+**A responsive and clean website that will go beyond vegan products and will also include tips and experiences about veganism.**
 
-- A powerful search tool, showing organized results through keywords
-- A light and responsive layout, clean and easy to navigate in multiple platforms
-- Direct the user to other respectable vegan websites, giving different alternatives for each subject
-- Social medias profiles included, helping to share information and to build a helpful vegan community
+After the interviews and through patterns and researches, we determined our persona and our top goals:
+- Unify the shopping experience across mobile and web
+- Develop a powerful search tool, showing organized results through keywords
+- Provide a light and responsive layout, clean and easy to navigate in multiple platforms
+- Direct the user to other respectable vegan websites, giving different alternatives for each subject
+- Facilitate information, gathering and sharing to build a helpful vegan community
+
+With these goals in mind, we used the persona to design storyboards and screens to define the best user flow, testing several steps to find vegan products, in different segments. 
 
 ### Persona
 ![Persona](https://farm5.staticflickr.com/4218/35662538192_c141e98c06_h.jpg)
@@ -74,15 +80,15 @@ Concepts to solve the problem:
 <a id="the-design-process"></a>
 ## The design process
 
-The main feature of the vegan guide is the search bar. It isn’t a simple bar, but a powerful tool that is simple to use and very fast to find precise information. Inspired by the Yoga Glo APP, Yummly and the customer service page on Walmart.com.br, the results are presented in categories, showing a very organized structure. 
+The main feature of the vegan guide is the search bar. It isn’t a simple bar, but a powerful tool that is easy to use and very fast to find precise information, powered by full-text search technology. Inspired by the Yoga Glo APP, Yummly and the customer service page on Walmart.com.br, the results are presented in categories, showing a very organized structure. 
 
-The user will be able to find the information needed in a very performant and smooth fashion, making it easier to surface related information and recommendations to explore more about other vegan products and ideas.  
+The user will be able to find its results in a very performant and smooth fashion, making it easier to surface related information and recommendations to explore more about other vegan products and ideas.  
 
 Based in some wireframes, we designed the UI concepts that reflect all that we have been learning from our research and test results: to make it simple on the layout and the language.  
 
 After a few iterations, we decided to start just with the basic categories of vegan products, and later on, we will add more categories, based in future tests and statistics.  
 
-On the image gallery below you can find the initial black & white wireframes, and the final solution which got implemented on the website.
+Next, you can find the initial black & white wireframes, and after them the final solution which got implemented on the website.
 
 <a id="the-low-fidelity-wireframes"></a>
 ## The low-fidelity wireframes
@@ -112,14 +118,15 @@ On the image gallery below you can find the initial black & white wireframes, an
 ![Search results page](https://farm5.staticflickr.com/4277/35831408195_5ebc5d77ca_h.jpg)
 
 ### Mobile Home page
-![Mobile home page](https://farm5.staticflickr.com/4263/35831409035_a773f4038d_h.jpg)
+![Mobile home page](/img/ux-vegan-guide-mobile-hp.png)
 
 <a id="working-prototype"></a>
 ## Working prototype
 Check out <a href="http://veganguide.me" target="_blank">VeganGuide.Me</a>.
 
-<a id="software-used"></a>
-## Software used
-- Illustrator
-- Photoshop
-- Adobe XD
+<a id="reflection"></a>
+## Reflection 
+
+Focus on simplicity is the key to succeed while creating a platform to help vegans to find the right products. 
+
+The presentation of the Vegan Guide project as a simple website was well received, but we feel we could done more to increase the searching and shopping experience. Instead of a simple responsive website, we can definitely think on also developing a mobile app.
