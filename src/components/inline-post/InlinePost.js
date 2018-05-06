@@ -4,11 +4,14 @@ import './inline-post.sass';
 
 const imagePlaceholder = 'https://bulma.io/images/placeholders/1280x960.png';
 
-const InlinePost = ({ isLeft, path, title, description, image}) => {
+const InlinePost = ({ isLeft, path, title, description, image, tag}) => {
   const imageColumn = responsiveClass => (
     <div className={`column ${responsiveClass}`}>
       <figure className="image">
-        <Link to={path}><img src={image || imagePlaceholder} alt={title} /></Link>
+        <Link to={path}>
+          <img src={image || imagePlaceholder} alt={title} />
+          <div className={`image-filter-background ${tag}`}></div>
+        </Link>
       </figure>
     </div>
   );

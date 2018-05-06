@@ -30,7 +30,7 @@ const Tags = ({ pathContext, data }) => {
             isLeft = !isLeft;
             return (
               <li key={path}>
-                <InlinePost isLeft={isLeft} {...node.frontmatter} />
+                <InlinePost isLeft={isLeft} {...node.frontmatter} tag={tag} />
               </li>
             );
           })}
