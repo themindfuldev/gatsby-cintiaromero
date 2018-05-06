@@ -78,4 +78,8 @@ image: /img/vd-social-media.jpg
 
 ![Mega bazar](https://farm1.staticflickr.com/708/21296049659_02b6db1661_h.jpg)
 
+### Save the date
+
+![Save the date](/img/vd-social-media-16.jpg)
+
 <a href="#table-of-contents"><i class="far fa-arrow-alt-circle-up fa-lg"></i> Back to top</a>
