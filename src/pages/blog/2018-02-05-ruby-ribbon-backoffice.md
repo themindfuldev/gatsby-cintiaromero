@@ -77,14 +77,41 @@ The goal of the project is to provide a clean and organized structure, easy to f
 <a id="the-current-website"></a>
 ## The current website
 
+### Login page
+![Login page](/img/ux-rr-backoffice-current-login.jpg)
+
 ### Home page
 ![Home page](/img/ux-rr-backoffice-current-hp.jpg)
+
+### Order page
+![Order page](/img/ux-rr-backoffice-current-order.jpg)
+
+### Trunk show page
+![Trunk show page](/img/ux-rr-backoffice-current-trunkshow.jpg)
+
+### Resources page
+![Resources page](/img/ux-rr-backoffice-current-resources.jpg)
 
 <a id="the-proposal"></a>
 ## The proposal
 
+### Login page
+![Login page](/img/ux-rr-backoffice-proposal-login.jpg)
+
 ### Home page
 ![Home page](/img/ux-rr-backoffice-proposal-hp.jpg)
+
+### Order page
+![Order page](/img/ux-rr-backoffice-proposal-order.jpg)
+
+### Corporate calendar page
+![Corporate calendar page](/img/ux-rr-backoffice-proposal-corporate-calendar.jpg)
+
+### Resources page
+![Resources page](/img/ux-rr-backoffice-proposal-resources.jpg)
+
+### News page
+![News page](/img/ux-rr-backoffice-proposal-news.jpg)
 
 <a id="reflection"></a>
 ## Reflection 
