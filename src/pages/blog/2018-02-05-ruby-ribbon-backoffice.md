@@ -1,7 +1,8 @@
 ---
 templateKey: post-page
-path: /ruby-ribbon-backoffice
-title: Ruby Ribbon's Back Office
+path: /ruby-ribbon-portal
+title: Ruby Ribbon's portal
+subtitle: Closing sales and opening opportunities.
 tags:
   - ux
 date: 2018-02-05

@@ -2,9 +2,10 @@
 templateKey: post-page
 path: /ruby-ribbon-website
 title: Ruby Ribbon's website
+subtitle: Elevating the shape.
 tags:
   - ux
-date: 2017-12-05
+date: 2018-02-06
 description: I worked on a complete redesign for Ruby Ribbon's website, focusing on the core pages (Home, Category, Product  and Choose your Kit). The goal was to elevate the brand image with a fashionable, elegant and mobile-friendly facelift. 
 image: /img/ux-rr-website.jpg
 ---

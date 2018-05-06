@@ -2,6 +2,7 @@
 templateKey: post-page
 path: /vegan-guide-me
 title: VeganGuide.Me
+subtitle: Powered by a blazing-fast search bar.
 tags:
   - ux
 date: 2017-07-09
