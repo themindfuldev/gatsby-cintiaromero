@@ -29,7 +29,7 @@ image: /img/ux-rr-website.jpg
 
 **Dealing with online direct sales should be simple and fun. How to do demonstrate it through a website?**
 
-[Ruby Ribbon](https://www.rubyribbon.com/), is a Silicon Valley-based apparel company known for selling shapewear and fashion through Independent Stylists, as a direct sales business.
+<a href="https://www.rubyribbon.com/" target="_blank" rel="noopener noreferrer">Ruby Ribbon</a> is a Silicon Valley-based apparel company known for selling shapewear and fashion through Independent Stylists, as a direct sales business.
 
 My first priority was to make Ruby Ribbon's website responsive and more accessible, and of course applying contemporary e-commerce features. 
 
