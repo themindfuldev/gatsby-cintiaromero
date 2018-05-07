@@ -29,6 +29,8 @@ image: /img/ux-rr-backoffice.jpg
 
 **Finding resources and closing sales should be fun and simple. How to make the Stylist experience more pleasant?**
 
+[Ruby Ribbon](https://www.rubyribbon.com/), is a Silicon Valley-based apparel company known for selling shapewear and fashion through Independent Stylists, as a direct sales business.
+
 My first priority was to make Ruby Ribbon's portal responsive and easy to navigate, creating a functional and clean design. 
 
 The foundation for this project was based in user research and tests. 

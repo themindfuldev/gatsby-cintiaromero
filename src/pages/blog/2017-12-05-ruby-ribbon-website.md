@@ -27,7 +27,9 @@ image: /img/ux-rr-website.jpg
 <a id="the-problem-definition"></a>
 ## The problem definition 
 
-**Dealing with online direct sales should be simple and fun. How to do demonstrate it through the website?**
+**Dealing with online direct sales should be simple and fun. How to do demonstrate it through a website?**
+
+[Ruby Ribbon](https://www.rubyribbon.com/), is a Silicon Valley-based apparel company known for selling shapewear and fashion through Independent Stylists, as a direct sales business.
 
 My first priority was to make Ruby Ribbon's website responsive and more accessible, and of course applying contemporary e-commerce features. 
 
