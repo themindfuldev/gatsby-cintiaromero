@@ -1,13 +1,18 @@
 ---
 templateKey: post-page
 path: /ruby-ribbon-portal
-title: Ruby Ribbon's portal
+title: Ruby Ribbon's Portal
 subtitle: Closing sales and opening opportunities.
 tags:
   - ux
-date: 2018-02-05
-description: I worked on a complete redesign for the Styilists Back Office portal, making it more intuitive and functional.
+date: 2018-02-05T00:00:00.000Z
 image: /img/ux-rr-backoffice.jpg
+description: >-
+  A functional platform that helps stylists to organize Trunk Shows and
+  facilitates the sales. It removes pain of closing online sales with an
+  intuitive and clean interface. My role was to research, test and redesign all
+  the UIs related to the project. I collaborated with project management,
+  product development and design to launch this first step of the project.
 ---
 
 ## Table of contents
@@ -118,7 +123,4 @@ The goal of the project is to provide a clean and organized structure, easy to f
 
 <a id="reflection"></a>
 ## Reflection 
-
-A responsive e-commerce experience is essential for a fashion start-up. Nowadays, people buy products through multiple platforms. 
-
-The proposal of the Back Office was fun to work with, but for the future, I would love to create an app as well, so the clients/stylists can better interact with the brand.
+As same as the website, I was surprised to see how many stylists had struggles organizing sales through smartphones and tablets. So we focused on mobile-first concept, making it easier to navigate and creating a very intuitive feeling.
