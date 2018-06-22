@@ -5,9 +5,14 @@ title: VeganGuide.Me
 subtitle: Powered by a blazing-fast search bar.
 tags:
   - ux
-date: 2017-07-09
-description: VeganGuide.Me is a fully-responsive website designed to help saving animals lives through sharing knowledge and tips and guiding your vegan shopping experience, powered by a blazing-fast search bar.
+date: 2017-07-09T00:00:00.000Z
 image: /img/ux-vegan-guide.jpg
+description: >-
+  Vegan Guide is a fully-responsive website that helps saving animals lives
+  through sharing knowledge, tips and guiding a vegan shopping experience,
+  featuring a blazing-fast search bar. My role was to create a product, test and
+  design all the UIs related to the project. I collaborated with product
+  development, design and engineering  to launch the first phase of the project.
 ---
 
 ## Table of contents
@@ -128,6 +133,4 @@ Check out <a href="http://veganguide.me" target="_blank">VeganGuide.Me</a>.
 <a id="reflection"></a>
 ## Reflection 
 
-Focus on simplicity is the key to succeed while creating a platform to help vegans to find the right products. 
-
-The presentation of the Vegan Guide project as a simple website was well received, but we feel we could done more to increase the searching and shopping experience. Instead of a simple responsive website, we can definitely think on also developing a mobile app.
+The project had many challenges, but the most difficult piece was combining information and datas to provide a great content. Thankfully we were able to reunite articles through the search bar, which made the vegan shopping experience fluid and complete. 
