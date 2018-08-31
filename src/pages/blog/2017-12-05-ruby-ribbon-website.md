@@ -5,9 +5,15 @@ title: Ruby Ribbon's website
 subtitle: Elevating the shape.
 tags:
   - ux
-date: 2018-02-06
-description: I worked on a complete redesign for Ruby Ribbon's website, focusing on the core pages (Home, Category, Product  and Choose your Kit). The goal was to elevate the brand image with a fashionable, elegant and mobile-friendly facelift. 
+date: 2018-02-06T00:00:00.000Z
 image: /img/ux-rr-website.jpg
+description: >-
+  A fully-responsive website that focus on the core pages (Homepage, Category,
+  Product and Choose your kit) to drive more sales. It elevates the brand image,
+  with an elegant and mobile-friendly facelift. My role was to research, test
+  and redesign all the UIs related to the project. I collaborated with project
+  management, product development and design to launch this first step of the
+  project.
 ---
 
 ## Table of contents
@@ -128,6 +134,5 @@ The goal of the project is to drive more clients and sales through the website, 
 <a id="reflection"></a>
 ## Reflection 
 
-A responsive e-commerce experience is essential for a fashion start-up. Nowadays, people buy products through multiple platforms. 
-
-The proposal of the new website was fun to work with, but for the future, I would love to create a prototype and apply some A/B tests, so we can achieve even better results.
+I was surprised to see how many users had struggles accessing the website through smartphones and tablets. So we focused on mobile-first concept, making the content suitable for multiple platforms. 
+The tests were successful, now the company is ready for the next phase of the project.
