@@ -24,7 +24,7 @@ const FullBanner = () => (
 		</div>
 		<div className="hero-foot">
 			<div className="section has-text-centered">
-				<a href="#about" onClick={scrollIt}>
+				<a href="#about" onClick={scrollIt} title="About Me">
 					<i className="fas fa-chevron-circle-down fa-3x"></i>
 				</a>
 			</div>

@@ -8,7 +8,7 @@ const About = () => (
         <div className="columns">
           <div className="column is-one-third">
             <figure className="about-avatar image is-256x256">
-              <img className="is-rounded" src="https://www.gravatar.com/avatar/2588358b0e7310498ff507b4266f460e?s=250" />
+              <img className="is-rounded" src="https://www.gravatar.com/avatar/2588358b0e7310498ff507b4266f460e?s=250" alt="Cintia Romero" />
             </figure>
           </div>
           <div className="column">
