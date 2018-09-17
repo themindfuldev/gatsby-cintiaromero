@@ -22,7 +22,7 @@ const handleScriptLoad = () => {
 
 const title = 'Cintia Romero';
 const description = `I design and develop experiences that make people's life simpler.`;
-const avatar = 'https://www.gravatar.com/avatar/2588358b0e7310498ff507b4266f460e?s=600';
+const avatar = 'https://www.gravatar.com/avatar/2588358b0e7310498ff507b4266f460e?s=1200';
 const url = 'https://cintiaromero.com/';
 const twitterHandle = '@cintiaaa_romero';
 const pinterest = 'https://www.pinterest.com/cintiaromero313';
