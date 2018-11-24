@@ -259,6 +259,7 @@ I prefer starting out with low-fidelity wireframes to think through the structur
 
 ![Contact us](/img/ux-monument-impact-low-1.png)
 
+---
 
 <a id="before-and-after"></a>
 ## Before and after
