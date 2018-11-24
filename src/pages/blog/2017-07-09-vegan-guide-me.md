@@ -110,38 +110,38 @@ Next, you can find the initial black & white wireframes, and after them the fina
 <a id="the-low-fidelity-wireframes"></a>
 ## The low-fidelity wireframes
 
-<a id="home-page-layout">
+<a id="home-page-layout"></a>
 ### Home page layout
 ![Home page layout](https://farm5.staticflickr.com/4240/35831406215_ea92cb8ffb_h.jpg)
 
-<a id="article-page-layout">
+<a id="article-page-layout"></a>
 ### Article page layout
 ![Article page layout](https://farm5.staticflickr.com/4284/35790899176_f6f9cfec2e_h.jpg)
 
-<a id="mobile-version-layout">
+<a id="mobile-version-layout"></a>
 ### Mobile version layout
 ![Mobile version layout](https://farm5.staticflickr.com/4212/35831405815_f5508ce80d_h.jpg)
 
 <a id="the-high-fidelity-designs"></a>
 ## The high-fidelity designs
 
-<a id="home-page">
+<a id="home-page"></a>
 ### Home page
 ![Home page](https://farm5.staticflickr.com/4257/35790900796_b546d7afea_h.jpg)
 
-<a id="category-page">
+<a id="category-page"></a>
 ### Category page
 ![Category page](https://farm5.staticflickr.com/4288/35790900606_26b166c131_h.jpg)
 
-<a id="article-page">
+<a id="article-page"></a>
 ### Article page
 ![Article page](https://farm5.staticflickr.com/4231/35790900996_c67d23efae_h.jpg)
 
-<a id="search-results-page">
+<a id="search-results-page"></a>
 ### Search results page
 ![Search results page](https://farm5.staticflickr.com/4277/35831408195_5ebc5d77ca_h.jpg)
 
-<a id="mobile-home-page">
+<a id="mobile-home-page"></a>
 ### Mobile Home page
 ![Mobile home page](/img/ux-vegan-guide-mobile-hp.png)
 
