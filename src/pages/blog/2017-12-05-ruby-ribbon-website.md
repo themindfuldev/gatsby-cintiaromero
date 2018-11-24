@@ -18,12 +18,25 @@ description: >-
 
 ## Table of contents
 
+- [Table of contents](#table-of-contents)
 - [The problem definition](#the-problem-definition)
 - [The user research](#the-user-research)
 - [The design solution](#the-design-solution)
 - [The design process](#the-design-process)
 - [The current website](#the-current-website)
+  - [Home page](#home-page)
+  - [Category page](#category-page)
+  - [Product page 1](#product-page-1)
+  - [Product page 2](#product-page-2)
+  - [Choose your Kit](#choose-your-kit)
 - [The proposal](#the-proposal)
+  - [Home page](#home-page-1)
+  - [Category page](#category-page-1)
+  - [Product page](#product-page)
+  - [Choose your Kit](#choose-your-kit-1)
+  - [Home page (mobile)](#home-page-mobile)
+  - [Category page (mobile)](#category-page-mobile)
+  - [Product page (mobile)](#product-page-mobile)
 - [Reflection](#reflection)
 
 <br/>
@@ -91,18 +104,23 @@ The goal of the project is to drive more clients and sales through the website, 
 <a id="the-current-website"></a>
 ## The current website
 
+<a id="home-page"></a>
 ### Home page
 ![Home page](/img/ux-rr-website-current-hp.jpg)
 
+<a id="category-page"></a>
 ### Category page
 ![Category](/img/ux-rr-website-current-category.jpg)
 
+<a id="product-page-1"></a>
 ### Product page 1
 ![Product page 1](/img/ux-rr-website-current-pdp1.jpg)
 
+<a id="product-page-2"></a>
 ### Product page 2
 ![Product page 2](/img/ux-rr-website-current-pdp2.jpg)
 
+<a id="choose-your-kit"></a>
 ### Choose your Kit
 ![Choose your Kit](/img/ux-rr-website-current-kit.jpg)
 
@@ -110,26 +128,33 @@ The goal of the project is to drive more clients and sales through the website, 
 <a id="the-proposal"></a>
 ## The proposal
 
+<a id="home-page-1"></a>
 ### Home page
 ![Home page](/img/ux-rr-website-proposal-hp.png)
 
+<a id="category-page-1"></a>
 ### Category page
 ![Category](/img/ux-rr-website-proposal-category.png)
 
+<a id="product-page-1"></a>
 ### Product page
 ![Product page](/img/ux-rr-website-proposal-pdp.png)
 
+<a id="choose-your-kit-1"></a>
 ### Choose your Kit
 ![Choose your Kit](/img/ux-rr-website-proposal-kit.jpg)
 
-### Home page - mobile
-![Home page - mobile](/img/ux-rr-website-proposal-hp-mobile.jpg)
+<a id="home-page-mobile"></a>
+### Home page (mobile)
+![Home page (mobile)](/img/ux-rr-website-proposal-hp-mobile.jpg)
 
-### Category page - mobile
-![Category page - mobile](/img/ux-rr-website-proposal-category-mobile.jpg)
+<a id="category-page-mobile"></a>
+### Category page (mobile)
+![Category page (mobile)](/img/ux-rr-website-proposal-category-mobile.jpg)
 
-### Product page - mobile
-![Product page - mobile](/img/ux-rr-website-proposal-pdp-mobile.jpg)
+<a id="product-page-mobile"></a>
+### Product page (mobile)
+![Product page (mobile)](/img/ux-rr-website-proposal-pdp-mobile.jpg)
 
 <a id="reflection"></a>
 ## Reflection 

@@ -17,12 +17,24 @@ description: >-
 
 ## Table of contents
 
+- [Table of contents](#table-of-contents)
 - [The problem definition](#the-problem-definition)
 - [The user research](#the-user-research)
 - [The design solution](#the-design-solution)
 - [The design process](#the-design-process)
 - [The current website](#the-current-website)
+  - [Login page](#login-page)
+  - [Home page](#home-page)
+  - [Order page](#order-page)
+  - [Trunk show page](#trunk-show-page)
+  - [Resources page](#resources-page)
 - [The proposal](#the-proposal)
+  - [Login page](#login-page-1)
+  - [Home page](#home-page-1)
+  - [Order page](#order-page-1)
+  - [Corporate calendar page](#corporate-calendar-page)
+  - [Resources page](#resources-page-1)
+  - [News page](#news-page)
 - [Reflection](#reflection)
 
 <br/>
@@ -85,39 +97,50 @@ The goal of the project is to provide a clean and organized structure, easy to f
 <a id="the-current-website"></a>
 ## The current website
 
+<a id="login-page"></a>
 ### Login page
 ![Login page](/img/ux-rr-backoffice-current-login.jpg)
 
+<a id="home-page"></a>
 ### Home page
 ![Home page](/img/ux-rr-backoffice-current-hp.jpg)
 
+<a id="order-page"></a>
 ### Order page
 ![Order page](/img/ux-rr-backoffice-current-order.jpg)
 
+<a id="trunk-show-page"></a>
 ### Trunk show page
 ![Trunk show page](/img/ux-rr-backoffice-current-trunkshow.jpg)
 
+<a id="resources-page"></a>
 ### Resources page
 ![Resources page](/img/ux-rr-backoffice-current-resources.jpg)
 
 <a id="the-proposal"></a>
 ## The proposal
 
+<a id="login-page-1"></a>
 ### Login page
 ![Login page](/img/ux-rr-backoffice-proposal-login.jpg)
 
+<a id="home-page-1"></a>
 ### Home page
 ![Home page](/img/ux-rr-backoffice-proposal-hp.jpg)
 
+<a id="order-page-1"></a>
 ### Order page
 ![Order page](/img/ux-rr-backoffice-proposal-order.jpg)
 
+<a id="corporate-calendar-page"></a>
 ### Corporate calendar page
 ![Corporate calendar page](/img/ux-rr-backoffice-proposal-corporate-calendar.jpg)
 
+<a id="resources-page-1"></a>
 ### Resources page
 ![Resources page](/img/ux-rr-backoffice-proposal-resources.jpg)
 
+<a id="news-page"></a>
 ### News page
 ![News page](/img/ux-rr-backoffice-proposal-news.jpg)
 
