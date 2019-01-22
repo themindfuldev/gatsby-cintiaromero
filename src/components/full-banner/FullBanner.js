@@ -16,7 +16,7 @@ const FullBanner = () => (
 					Hi, I'm Cintia Romero
 				</h1>
 				<h2 className="subtitle is-size-4">
-					I design and develop experiences that make people's life simpler.
+					I design and develop experiences that make people's lives simpler
 				</h2>
 				<br/>
 				<SocialIcons />

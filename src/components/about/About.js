@@ -13,9 +13,9 @@ const About = () => (
           </div>
           <div className="column">
             <div className="content is-size-5">
-              <p>I am a UX and Visual Designer for multiple devices and platforms with 8+ years of experience, based in San Francisco Bay Area.</p>
-              <p>Hiking, The Walking Dead and Speculoos cookie butter are just a few of my favorite things.</p>
-              <p>I completed Certificate Programs in User Experience Design at General Assembly in San Francisco, and in Visual Design at UC Berkeley Extension. Besides, I have a Bachelor’s degree in Advertising and Marketing and a MBA in Creative Direction for Fashion, both in Brazil.</p>
+              <p>UX & Visual Designer for multiple devices and platforms with 8+ years of experience.</p>
+              <p>Fond of spreading good practices related to accessibility in design and passionate about clean and functional aesthetic.</p>
+              <p>Hiking, hand drumming and Speculoos cookie butter are just a few of my favorite things!</p>
               <br/>
               <nav className="level">
                 <div className="level-item has-text-centered">
