@@ -5,7 +5,7 @@ title: Social media
 tags:
   - visual-design
 date: 2018-04-13
-description: Diving into the social game, helping brands to go out, speak their voice, creating a solid online reputation, playing with my design and digital marketing skills. 
+description: Diving into the social game, helping brands to go out, speak their voice, creating a solid online reputation, playing with my design and digital marketing skills.
 image: /img/vd-social-media.jpg
 ---
 
@@ -69,7 +69,7 @@ image: /img/vd-social-media.jpg
 ### I am a woman
 
 ![I am a woman](/img/vd-social-media-15.jpg)
-
+<!--
 ### Semana off
 
 ![Semana off](https://farm1.staticflickr.com/696/20860242794_23bb9c7c13_h.jpg)
@@ -77,7 +77,7 @@ image: /img/vd-social-media.jpg
 ### Mega bazar
 
 ![Mega bazar](https://farm1.staticflickr.com/708/21296049659_02b6db1661_h.jpg)
-
+-->
 ### Save the date
 
 ![Save the date](/img/vd-social-media-16.jpg)
