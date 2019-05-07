@@ -21,7 +21,7 @@ description: >-
 - [The problem definition](#the-problem-definition)
 - [The user research](#the-user-research)
 - [The design solution](#the-design-solution)
-<!--  - [Persona](#persona) -->
+- [Persona](#persona)
 - [The design process](#the-design-process)
 - [The low-fidelity wireframes](#the-low-fidelity-wireframes)
   - [Home page layout](#home-page-layout)
@@ -89,11 +89,12 @@ After the interviews and through patterns and research, we determined our person
 - Facilitate information, gathering and sharing to build a helpful vegan community
 
 With these goals in mind, we used the persona to design storyboards and screens to define the best user flow, testing several steps to find vegan products, in different segments.
-<!--
-<a id="persona">
+
+<a id="persona"></a>
 ### Persona
-![Persona](https://farm5.staticflickr.com/4218/35662538192_c141e98c06_h.jpg)
--->
+
+![Persona](/img/ux-vg-persona.png)
+
 <a id="the-design-process"></a>
 ## The design process
 
@@ -109,38 +110,38 @@ Next, you can find the initial black & white wireframes, and after them the fina
 
 <a id="the-low-fidelity-wireframes"></a>
 ## The low-fidelity wireframes
-<!--
+
 <a id="home-page-layout"></a>
 ### Home page layout
-![Home page layout](https://farm5.staticflickr.com/4240/35831406215_ea92cb8ffb_h.jpg)
+![Home page layout](/img/ux-vg-lf-home.png)
 
 <a id="article-page-layout"></a>
 ### Article page layout
-![Article page layout](https://farm5.staticflickr.com/4284/35790899176_f6f9cfec2e_h.jpg)
+![Article page layout](/img/ux-vg-lf-article.png)
 
 <a id="mobile-version-layout"></a>
 ### Mobile version layout
-![Mobile version layout](https://farm5.staticflickr.com/4212/35831405815_f5508ce80d_h.jpg)
+![Mobile version layout](/img/ux-vg-lf-mobile.png)
 
 <a id="the-high-fidelity-designs"></a>
 ## The high-fidelity designs
 
 <a id="home-page"></a>
 ### Home page
-![Home page](https://farm5.staticflickr.com/4257/35790900796_b546d7afea_h.jpg)
+![Home page](/img/ux-vg-hf-1.png)
 
 <a id="category-page"></a>
 ### Category page
-![Category page](https://farm5.staticflickr.com/4288/35790900606_26b166c131_h.jpg)
+![Category page](/img/ux-vg-hf-2.png)
 
 <a id="article-page"></a>
 ### Article page
-![Article page](https://farm5.staticflickr.com/4231/35790900996_c67d23efae_h.jpg)
+![Article page](/img/ux-vg-hf-3.jpg)
 
 <a id="search-results-page"></a>
 ### Search results page
-![Search results page](https://farm5.staticflickr.com/4277/35831408195_5ebc5d77ca_h.jpg)
--->
+![Search results page](/img/ux-vg-hf-4.jpg)
+
 <a id="mobile-home-page"></a>
 ### Mobile Home page
 ![Mobile home page](/img/ux-vegan-guide-mobile-hp.png)

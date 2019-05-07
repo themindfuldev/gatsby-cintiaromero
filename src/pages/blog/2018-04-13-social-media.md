@@ -69,15 +69,15 @@ image: /img/vd-social-media.jpg
 ### I am a woman
 
 ![I am a woman](/img/vd-social-media-15.jpg)
-<!--
+
 ### Semana off
 
-![Semana off](https://farm1.staticflickr.com/696/20860242794_23bb9c7c13_h.jpg)
+![Semana off](/img/vd-semana-off.png)
 
 ### Mega bazar
 
-![Mega bazar](https://farm1.staticflickr.com/708/21296049659_02b6db1661_h.jpg)
--->
+![Mega bazar](/img/vd-mega-bazar.png)
+
 ### Save the date
 
 ![Save the date](/img/vd-social-media-16.jpg)
