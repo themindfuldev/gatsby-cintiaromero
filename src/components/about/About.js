@@ -1,5 +1,6 @@
 import React from 'react';
 import './about.sass';
+import ExternalLink from '../ExternalLink'
 
 const About = () => (
   <section id="about" className="about-hero hero is-light">
@@ -13,26 +14,28 @@ const About = () => (
           </div>
           <div className="column">
             <div className="content is-size-5">
-              <p>UX & Visual Designer for multiple devices and platforms with 8+ years of experience.</p>
-              <p>Fond of spreading good practices related to accessibility in design and passionate about clean and functional aesthetic.</p>
-              <p>Hiking, hand drumming and Speculoos cookie butter are just a few of my favorite things!</p>
+              <p>UX & Visual Designer for multiple devices and platforms with over 9+ years of experience building products, experiences, and teams.</p>
+              <p>Currently working at <ExternalLink href="https://www.deltadentalins.com" className="text">Delta Dental</ExternalLink>, as a core UX Designer at Emerald (Delta Dental's Design System).</p>
+              <p>Latina from Brazil, vegan, design thinker, fond of spreading good practices related to accessibility, diversity, and inclusion.</p>
+              <p>Music, hiking with my dog and playing Capoeira with my husband <ExternalLink href="https://tiagorg.com" className="text">Tiago Romero Garcia</ExternalLink> are just a few of my favorite things!</p>
+              <p>I believe that Black Lives Matter and Love is Love.</p>
               <br/>
               <nav className="level">
                 <div className="level-item has-text-centered">
-                  <a href="/pdf/resume-cintia-romero.pdf" target="_blank" rel="noopener noreferrer" className="button is-medium is-link">
+                  <ExternalLink href="/pdf/resume-cintia-romero.pdf" className="button is-medium is-link">
                     <span className="icon">
                       <i className="fas fa-file-alt"></i>
                     </span>
                     <span>DOWNLOAD MY RESUME</span>
-                  </a>
+                  </ExternalLink>
                 </div>
                 <div className="level-item has-text-centered">
-                  <a href="https://www.linkedin.com/in/cintiaromero" target="_blank" rel="noopener noreferrer" className="button is-medium is-link">
+                  <ExternalLink href="https://www.linkedin.com/in/cintiaaaromero" className="button is-medium is-link">
                     <span className="icon">
                       <i className="fab fa-linkedin"></i>
                     </span>
                     <span>SEE MORE ON LINKEDIN</span>
-                  </a>
+                  </ExternalLink>
                 </div>
               </nav>                          
             </div>

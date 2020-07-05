@@ -79,7 +79,8 @@ export const pageQuery = graphql`
             path
             description
             image
-            isImageGrid           
+            isImageGrid
+            isPrivate
           }
         }
       }
